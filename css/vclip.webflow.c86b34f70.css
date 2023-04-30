@@ -608,7 +608,9 @@ figcaption {
   -webkit-align-items: flex-start;
   -ms-flex-align: start;
   align-items: flex-start;
-  background-color: rgba(0, 0, 0, 0.39);
+  background-color: rgba(16 18 27 / 40%);
+  /* backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px); */
 }
 
 .container-large.display-flex.vertical.no-bg {
@@ -911,6 +913,7 @@ figcaption {
 
 .heding-size-custom {
   font-size: 120px;
+  text-align: center;
 }
 
 .heding-size-custom.text-weight-light {
@@ -1703,6 +1706,11 @@ figcaption {
 .social-link.hover {
   width: 31px;
   color: #fff;
+}
+
+.social-icon-fin {
+  color: white;
+  background-color: white;
 }
 
 .modal-work {

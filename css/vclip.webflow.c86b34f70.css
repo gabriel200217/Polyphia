@@ -4713,3 +4713,13 @@ figcaption {
   font-style: normal;
   font-display: swap;
 }
+
+//Datatable
+
+.table__body::-webkit-scrollbar {
+  width: 0.5rem;
+  height: 0.5rem;
+}
+.table__body::-webkit-scrollbar-thumb{
+   border-radius: .5rem;
+}

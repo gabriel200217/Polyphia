@@ -4692,20 +4692,17 @@ figcaption {
     -ms-grid-column-align: start;
     justify-self: start;
   }
-}
-
-@media screen and (max-width: 991px) {
-  .ButtonProducts { 
-    position: absolute;
-    margin-top: 90vh;
-    margin-left: 5vh;
-    margin-right: 5vh;
-    z-index: 999;
-    background-color: #f7f7f7;
-    text-decoration: none;
-    border-radius: 4vh;
-    padding: 2vh 7vh;
-    color: black;
+  .ButtonProducts {
+    position: absolute !important;
+    margin-top: 90vh !important;
+    margin-left: 5vh !important;
+    margin-right: 5vh !important;
+    z-index: 999 !important;
+    background-color: #f7f7f7 !important;
+    text-decoration: none !important;
+    border-radius: 4vh !important;
+    padding: 2vh 7vh !important;
+    color: black !important;
   }
 }
 

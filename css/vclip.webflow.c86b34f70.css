@@ -4692,6 +4692,18 @@ figcaption {
     -ms-grid-column-align: start;
     justify-self: start;
   }
+  .ButtonProducts {
+    position: absolute;
+    margin-top: 90vh;
+    margin-left: 5vh;
+    margin-right: 5vh;
+    z-index: 999;
+    background-color: #f7f7f7;
+    text-decoration: none;
+    border-radius: 4vh;
+    padding: 2vh 7vh;
+    color: black;
+  }
 }
 
 @media screen and (max-width: 767px) {
@@ -4722,4 +4734,92 @@ figcaption {
 }
 .table__body::-webkit-scrollbar-thumb{
    border-radius: .5rem;
+}
+
+//Button-Table
+
+button .buttonN {
+  position: relative;
+  overflow: hidden;
+  width: 140px;
+  height: 50px;
+  border-radius: 25px;
+  border: 0;
+  color: #f7f7f7;
+  background: #275efe;
+  font-family: "Poppins";
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.button-textM,
+.button-links {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  transition: 0.3s;
+}
+
+.button-textM {
+  gap: 10px;
+  justify-content: center;
+  color: inherit;
+  font-size: 16px;
+}
+
+.button-links {
+  opacity: 0;
+  justify-content: space-between;
+  padding: 0 28px;
+  transition: 0.2s;
+}
+
+.button-links a {
+  translate: 0 50px;
+  transition: 0.3s
+}
+
+.buttonN:hover {
+  border-radius: 6px;
+}
+
+.buttonN:hover .button-links {
+  opacity: 1;
+}
+
+.buttonN:hover .button-links a {
+  translate: 0;
+}
+
+.buttonN:hover .button-links a:nth-child(1) {
+  transition-delay: 0.05s;
+}
+
+.buttonN:hover .button-links a:nth-child(2) {
+  transition-delay: 0.1s;
+}
+
+.buttonN:hover .button-links a:nth-child(3) {
+  transition-delay: 0.15s;
+}
+
+.buttonN:hover .button-textM {
+  translate: 0 -100%;
+}
+
+.ButtonProducts {
+  position: absolute;
+  margin-top: 90vh;
+  margin-left: 85vh;
+  margin-right: 85vh;
+  z-index: 999;
+  background-color: #f7f7f7;
+  text-decoration: none;
+  border-radius: 4vh;
+  padding: 2vh 7vh;
+  color: black;
 }

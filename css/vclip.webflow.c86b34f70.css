@@ -1686,6 +1686,21 @@ figcaption {
   font-size: 5rem;
   font-weight: 500;
   text-transform: uppercase;
+  text-decoration: none;
+}
+
+.text-link-two {
+  font-family: Oswald, sans-serif;
+  color: #000;
+  font-size: 4rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.accordion-content {
+  margin-left: 100%;
+  margin-top: -800%;
 }
 
 .social-links-wrapper {
@@ -2910,6 +2925,14 @@ figcaption {
     font-size: 6.7rem;
   }
 
+  .text-link-two {
+    font-size: 5.7rem;
+  }
+
+  .accordion-contet {
+    margin-top: -150%;
+  }
+
   .social-links-wrapper {
     padding-right: 0px;
   }
@@ -3716,6 +3739,15 @@ figcaption {
     line-height: 1.3;
   }
 
+  .text-link-two {
+    font-size: 4.9rem;
+    line-height: .7;
+  }
+
+  .accordion-content {
+    margin-top: -120%;
+  }
+
   .social-links-wrapper {
     position: relative;
     margin-top: 37px;
@@ -4121,6 +4153,15 @@ figcaption {
 
   .text-link {
     font-size: 3.1rem;
+  }
+
+  .text-link-two {
+    font-size: 2.1rem;
+  }
+
+  .accordion-content {
+    margin-left: 20%;
+    margin-top: -180%;
   }
 
   .social-links-wrapper {

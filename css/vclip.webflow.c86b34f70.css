@@ -1309,7 +1309,7 @@ figcaption {
   position: relative;
   margin-top: 1.33vw;
   margin-bottom: 3.56vw;
-  font-size: 9vw;
+  font-size: 7vw;
   font-weight: 500;
   letter-spacing: -0.034em;
 }
@@ -1578,6 +1578,7 @@ figcaption {
 .wrap-text.absolute {
   position: absolute;
   bottom: 0px;
+  margin-bottom: 35vh;
 }
 
 .navbar {

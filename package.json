@@ -1,0 +1,22 @@
+{
+  "name": "polyphia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel200217/Polyphia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriel200217/Polyphia/issues"
+  },
+  "homepage": "https://github.com/gabriel200217/Polyphia#readme",
+  "dependencies": {
+    "three": "^0.152.2"
+  }
+}

@@ -207,6 +207,7 @@
                     <div data-w-id="44cfd3d5-a12d-4a52-1eb8-781fb73d8f6e" class="background-color-black"></div>
                 </div>
             </div>
+            
             <div data-w-id="2afde6f1-bf4d-4e30-eff9-8dd6cc02252c" class="hero-section wf-section">
                 <div class="container-mask">
                     <div data-poster-url="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637b569b9057b7c5bef5da1f_Aerial_Shot_Of_Forest_Covered_In_Snow_AdobeExpress_AdobeExpress (1)-poster-00001.jpg" data-video-urls="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637b569b9057b7c5bef5da1f_Aerial_Shot_Of_Forest_Covered_In_Snow_AdobeExpress_AdobeExpress (1)-transcode.mp4,https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637b569b9057b7c5bef5da1f_Aerial_Shot_Of_Forest_Covered_In_Snow_AdobeExpress_AdobeExpress (1)-transcode.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" class="video-background position-absolute w-background-video w-background-video-atom">
@@ -221,26 +222,783 @@
                     <h1 data-w-id="3423d055-ab50-fb59-02d6-8dfdb83e7d44" class="heading-style-h1 text-color-white position-absolute text-align-center">The way you see the things <br/>make the difference<br/></h1>
                 </div>
                 <div data-w-id="3667a77e-b20e-b1cb-924f-56f5c3e08b7f" style="opacity:0" class="column position-absolute">
-                    <img src="images/about-header-1.jpg" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 37vw, (max-width: 991px) 200px, 12vw" alt="" class="image-scrolling"/>
-                    <img src="images/BOOMTOWNBOOKSHELF_UNFD-DLL.jpg" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 991px) 37vw, 18vw" alt="" class="image-scrolling horizontal"/>
-                    <img src="images/default-header.jpg" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 991px) 37vw, 18vw" alt="" class="image-scrolling horizontal"/>
+                    <img src="https://t2.genius.com/unsafe/224x224/https%3A%2F%2Fimages.genius.com%2F34a10721c3085ac27ce4b6e0b77ee490.999x999x1.png" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, 155.33279418945312px" srcset="https://t2.genius.com/unsafe/224x224/https%3A%2F%2Fimages.genius.com%2F34a10721c3085ac27ce4b6e0b77ee490.999x999x1.png 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637766102c8a5c594c179f8d_23-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637766102c8a5c594c179f8d_23-p-1080.jpg 1080w, https://t2.genius.com/unsafe/224x224/https%3A%2F%2Fimages.genius.com%2F34a10721c3085ac27ce4b6e0b77ee490.999x999x1.png" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 37vw, (max-width: 991px) 200px, 12vw" alt="" class="image-scrolling"/>
+                    <img src="https://t2.genius.com/unsafe/237x237/https%3A%2F%2Fimages.genius.com%2F167055a1ad0539254945b355087a259b.1000x1000x1.png" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 767px) 32vw, (max-width: 991px) 20vw, (max-width: 1439px) 155.33279418945312px, 11vw" srcset="https://t2.genius.com/unsafe/237x237/https%3A%2F%2Fimages.genius.com%2F167055a1ad0539254945b355087a259b.1000x1000x1.png 500w, https://t2.genius.com/unsafe/237x237/https%3A%2F%2Fimages.genius.com%2F167055a1ad0539254945b355087a259b.1000x1000x1.png" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 991px) 37vw, 18vw" alt="" class="image-scrolling horizontal"/>
+                    <img src="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/POLYPHIA-EGODEATH-MOCKUP_540x.png?v=1658158941" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 991px) 155.332763671875px, (max-width: 1439px) 16vw, 155.332763671875px" srcset="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/POLYPHIA-EGODEATH-MOCKUP_540x.png?v=1658158941 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-1080.jpg 1080w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-1600.jpg 1600w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-2000.jpg" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 991px) 37vw, 18vw" alt="" class="image-scrolling horizontal"/>
                 </div>
                 <div data-w-id="177d8327-c7e3-9107-84da-ce4406cd1a28" style="opacity:0" class="column position-absolute second">
-                    <img src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/63847950f1211d956716ec3c_pedro-vit-nxssxDuytMA-unsplash.jpg" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 991px) 37vw, 18vw" alt="" class="image-scrolling horizontal _2"/>
-                    <img src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6380df351484f1180f13eb98_flaunter-cGbSFYVETQM-unsplash%20(1).jpg" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 991px) 37vw, 18vw" alt="" class="image-scrolling horizontal _2"/>
-                    <img src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321c93a5eab742e94c5ce75_pexels-ron-lach-8089655.jpg" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 37vw, (max-width: 991px) 200px, 12vw" alt="" class="image-scrolling"/>
+                    <img src="https://t2.genius.com/unsafe/243x243/https%3A%2F%2Fimages.genius.com%2F57cd54e933d6d2fbb610a004acf74473.1000x1000x1.png" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 991px) 37vw, 18vw" alt="" class="image-scrolling horizontal _2"/>
+                    <img src="https://t2.genius.com/unsafe/227x227/https%3A%2F%2Fimages.genius.com%2F8c86adfbe4940cf0c9595483090c5b49.1000x1000x1.png" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 767px) 32vw, (max-width: 991px) 20vw, (max-width: 1439px) 16vw, 11vw" srcset="https://t2.genius.com/unsafe/227x227/https%3A%2F%2Fimages.genius.com%2F8c86adfbe4940cf0c9595483090c5b49.1000x1000x1.png 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377662865ea181433b6e3af_22-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377662865ea181433b6e3af_22-p-1080.jpg 1080w, https://t2.genius.com/unsafe/227x227/https%3A%2F%2Fimages.genius.com%2F8c86adfbe4940cf0c9595483090c5b49.1000x1000x1.png" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 991px) 37vw, 18vw" alt="" class="image-scrolling horizontal _2"/>
+                    <img src="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/CD-DISCFACE_dca5b7a9-3100-4539-b2d4-6d7b6dceebf5_540x.png?v=1662044404" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 37vw, (max-width: 991px) 200px, 12vw" alt="" class="image-scrolling"/>
                 </div>
             </div>
             <div id="About" data-w-id="b92a3088-45eb-d066-6cc9-cf24c0d3dd4f" style="filter:invert(100%)" class="about-section padding-left padding-custom-first wf-section">
                 <div class="description padding-left padding-custom-first">
-                    <h2 data-w-id="2cb8daab-ae2f-3ad3-e0c2-1db06c64f944" class="heding-size-custom text-weight-light">UNIFIED Music Group</h2>
-                    <p data-w-id="9a3f507b-90ec-d69c-e8b9-e7130d4db850" class="main-paragraph max-width second">is a globally renowned multi-service music company. Formed in Melbourne, Australia, UNIFIED provides a range of services including artist management, recorded music, publishing, live events and merchandise to a diverse roster of local and international artists. With its head office based in the heartbeat of Melbourne’s live music scene, UNIFIED continues to pursue its global vision and now houses teams in Sydney, Los Angeles, Nashville, Canada and the UK.</p>
+                    <h2 data-w-id="2cb8daab-ae2f-3ad3-e0c2-1db06c64f944" class="heding-size-custom text-weight-light">Tours</h2>
+                    <p data-w-id="9a3f507b-90ec-d69c-e8b9-e7130d4db850" class="main-paragraph max-width second">
+                        <!-- is a globally renowned multi-service music company. 
+                        Formed in Melbourne, Australia, 
+                        UNIFIED provides a range of services including artist management, 
+                        recorded music, publishing, 
+                        live events and merchandise to a diverse roster of local 
+                        and international artists. With its head office based in the 
+                        heartbeat of Melbourne’s live music scene, UNIFIED continues 
+                        to pursue its global vision and now houses teams in Sydney, 
+                        Los Angeles, Nashville, Canada and the UK. -->
+                        <main class="table" style="
+                            width: 100%;
+                            height: 90vh;
+                            backdrop-filter: blur(7px);
+                            box-shadow: 0 .4rem .8rem #0005;
+                            border-radius: .8rem;
+                            overflow: hidden;
+                        ">
+                            <section class="table__header"
+                                style="
+                                    width: 100%;
+                                    height: 10%;
+                                    padding: .8rem .1rem;
+                                "
+                            >
+                                <!-- <h1>Customer's Orders</h1> -->
+                            </section>
+                            <section class="table__body"
+                                style="
+                                    width: 95%;
+                                    max-height: calc(89% - .8rem);
+                                    margin: .8rem auto;
+                                    border-radius: .6rem;
+                                    overflow: auto;
+                                "
+                            >
+                                <table
+                                    style="
+                                        padding: 1rem;
+                                        width: 100%;
+                                        border-collapse: collapse;
+                                    "
+                                >
+                                    <thead>
+                                        <tr>
+                                            <th
+                                                style="
+                                                    padding: 1rem;
+                                                    position: relative;
+                                                    top: 0;
+                                                    left: 0;
+                                                    border-collapse: collapse;
+                                                "
+                                            >Site</th>
+                                            <th
+                                                style="
+                                                    padding: 1rem;
+                                                    position: relative;
+                                                    top: 0;
+                                                    left: 0;
+                                                    border-collapse: collapse;
+                                                "
+                                            >Location</th>
+                                            <th
+                                                style="
+                                                    padding: 1rem;
+                                                    position: relative;
+                                                    top: 0;
+                                                    left: 0;
+                                                    border-collapse: collapse;
+                                                "
+                                            >Order Date</th>
+                                            <th
+                                                style="
+                                                    padding: 1rem;
+                                                    position: relative;
+                                                    top: 0;
+                                                    left: 0;
+                                                    border-collapse: collapse;
+                                                "
+                                            >Status</th>
+                                            <th
+                                                style="
+                                                    padding: 1rem;
+                                                    position: relative;
+                                                    top: 0;
+                                                    left: 0;
+                                                    border-collapse: collapse;
+                                                "
+                                            >Links</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >SWX
+                                            </td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            > Bristol, United Kingdom </td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            > May. 9, 2023 </td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >
+                                                <p>Upcoming</p>
+                                            </td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            ><button class="buttonN" 
+                                            style="
+                                                position: relative;
+                                                overflow: hidden;
+                                                width: 140px;
+                                                height: 50px;
+                                                border-radius: 25px;
+                                                border: 0;
+                                                color: #f7f7f7;
+                                                background: #275efe;
+                                                font-family: Poppins;
+                                                cursor: pointer;
+                                                transition: 0.2s;
+                                            ">
+                                                <span class="button-textM">
+                                                    <span>Share</span>
+                                                    <i class="fas fa-share">
+                                                    </i>
+                                                </span>
+                                                <span class="button-links">
+                                                    <a>
+                                                       <i class="fab fa-twitter">
+                                                       </i> 
+                                                    </a>
+                                                    <a>
+                                                        <i class="fab fa-facebook"></i>
+                                                    </a>
+                                                    <a>
+                                                        <i class="fab fa-linkedin"></i>
+                                                    </a>
+                                                </span>
+                                            </button></td>
+                                        </tr>
+                                        <tr>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >Garage 2 (G2)
+                                            </td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >Glasgow, United Kingdom</td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >May. 10, 2023</td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >
+                                                <p>Upcoming</p>
+                                            </td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            ><button class="buttonN" 
+                                            style="
+                                                position: relative;
+                                                overflow: hidden;
+                                                width: 140px;
+                                                height: 50px;
+                                                border-radius: 25px;
+                                                border: 0;
+                                                color: #f7f7f7;
+                                                background: #275efe;
+                                                font-family: Poppins;
+                                                cursor: pointer;
+                                                transition: 0.2s;
+                                            ">
+                                                <span class="button-textM">
+                                                    <span>Share</span>
+                                                    <i class="fas fa-share">
+                                                    </i>
+                                                </span>
+                                                <span class="button-links">
+                                                    <a>
+                                                       <i class="fab fa-twitter">
+                                                       </i> 
+                                                    </a>
+                                                    <a>
+                                                        <i class="fab fa-facebook"></i>
+                                                    </a>
+                                                    <a>
+                                                        <i class="fab fa-linkedin"></i>
+                                                    </a>
+                                                </span>
+                                            </button></td>
+                                        </tr>
+                                        <tr>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >O2 Shepherds Bush Empire
+                                            </td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >London, United Kingdom</td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >May. 11, 2023</td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >
+                                                <p>Upcoming</p>
+                                            </td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            ><button class="buttonN" 
+                                            style="
+                                                position: relative;
+                                                overflow: hidden;
+                                                width: 140px;
+                                                height: 50px;
+                                                border-radius: 25px;
+                                                border: 0;
+                                                color: #f7f7f7;
+                                                background: #275efe;
+                                                font-family: Poppins;
+                                                cursor: pointer;
+                                                transition: 0.2s;
+                                            ">
+                                                <span class="button-textM">
+                                                    <span>Share</span>
+                                                    <i class="fas fa-share">
+                                                    </i>
+                                                </span>
+                                                <span class="button-links">
+                                                    <a>
+                                                       <i class="fab fa-twitter">
+                                                       </i> 
+                                                    </a>
+                                                    <a>
+                                                        <i class="fab fa-facebook"></i>
+                                                    </a>
+                                                    <a>
+                                                        <i class="fab fa-linkedin"></i>
+                                                    </a>
+                                                </span>
+                                            </button></td>
+                                        </tr>
+                                        <tr>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >O2 Institute
+                                            </td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >Birmingham, United Kingdom</td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >May. 12, 2023</td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >
+                                                <p>Upcoming</p>
+                                            </td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            ><button class="buttonN" 
+                                            style="
+                                                position: relative;
+                                                overflow: hidden;
+                                                width: 140px;
+                                                height: 50px;
+                                                border-radius: 25px;
+                                                border: 0;
+                                                color: #f7f7f7;
+                                                background: #275efe;
+                                                font-family: Poppins;
+                                                cursor: pointer;
+                                                transition: 0.2s;
+                                            ">
+                                                <span class="button-textM">
+                                                    <span>Share</span>
+                                                    <i class="fas fa-share">
+                                                    </i>
+                                                </span>
+                                                <span class="button-links">
+                                                    <a>
+                                                       <i class="fab fa-twitter">
+                                                       </i> 
+                                                    </a>
+                                                    <a>
+                                                        <i class="fab fa-facebook"></i>
+                                                    </a>
+                                                    <a>
+                                                        <i class="fab fa-linkedin"></i>
+                                                    </a>
+                                                </span>
+                                            </button></td>
+                                        </tr>
+                                        <tr>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >O2 Ritz
+                                            </td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >Manchester, United Kingdom</td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >May. 13, 2023</td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >
+                                                <p>Upcoming</p>
+                                            </td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            ><button class="buttonN" 
+                                            style="
+                                                position: relative;
+                                                overflow: hidden;
+                                                width: 140px;
+                                                height: 50px;
+                                                border-radius: 25px;
+                                                border: 0;
+                                                color: #f7f7f7;
+                                                background: #275efe;
+                                                font-family: Poppins;
+                                                cursor: pointer;
+                                                transition: 0.2s;
+                                            ">
+                                                <span class="button-textM">
+                                                    <span>Share</span>
+                                                    <i class="fas fa-share">
+                                                    </i>
+                                                </span>
+                                                <span class="button-links">
+                                                    <a>
+                                                       <i class="fab fa-twitter">
+                                                       </i> 
+                                                    </a>
+                                                    <a>
+                                                        <i class="fab fa-facebook"></i>
+                                                    </a>
+                                                    <a>
+                                                        <i class="fab fa-linkedin"></i>
+                                                    </a>
+                                                </span>
+                                            </button></td>
+                                        </tr>
+                                        <tr>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >Trix
+                                            </td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >Antwerpen, Belgium</td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >Antwerpen, Belgium</td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >
+                                                <p>Upcoming</p>
+                                            </td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            ><button class="buttonN" 
+                                            style="
+                                                position: relative;
+                                                overflow: hidden;
+                                                width: 140px;
+                                                height: 50px;
+                                                border-radius: 25px;
+                                                border: 0;
+                                                color: #f7f7f7;
+                                                background: #275efe;
+                                                font-family: Poppins;
+                                                cursor: pointer;
+                                                transition: 0.2s;
+                                            ">
+                                                <span class="button-textM">
+                                                    <span>Share</span>
+                                                    <i class="fas fa-share">
+                                                    </i>
+                                                </span>
+                                                <span class="button-links">
+                                                    <a>
+                                                       <i class="fab fa-twitter">
+                                                       </i> 
+                                                    </a>
+                                                    <a>
+                                                        <i class="fab fa-facebook"></i>
+                                                    </a>
+                                                    <a>
+                                                        <i class="fab fa-linkedin"></i>
+                                                    </a>
+                                                </span>
+                                            </button></td>
+                                        </tr>
+                                        <tr>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >Melkweg
+                                            </td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >Amsterdam, Netherlands</td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >May. 16, 2023</td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >
+                                                <p>Upcoming</p>
+                                            </td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            ><button class="buttonN" 
+                                            style="
+                                                position: relative;
+                                                overflow: hidden;
+                                                width: 140px;
+                                                height: 50px;
+                                                border-radius: 25px;
+                                                border: 0;
+                                                color: #f7f7f7;
+                                                background: #275efe;
+                                                font-family: Poppins;
+                                                cursor: pointer;
+                                                transition: 0.2s;
+                                            ">
+                                                <span class="button-textM">
+                                                    <span>Share</span>
+                                                    <i class="fas fa-share">
+                                                    </i>
+                                                </span>
+                                                <span class="button-links">
+                                                    <a>
+                                                       <i class="fab fa-twitter">
+                                                       </i> 
+                                                    </a>
+                                                    <a>
+                                                        <i class="fab fa-facebook"></i>
+                                                    </a>
+                                                    <a>
+                                                        <i class="fab fa-linkedin"></i>
+                                                    </a>
+                                                </span>
+                                            </button></td>
+                                        </tr>
+                                        <tr>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >Fabrik
+                                            </td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >Hamburg, Germany</td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >May. 17, 2023</td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >
+                                                <p>Upcoming</p>
+                                            </td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            ><button class="buttonN" 
+                                            style="
+                                                position: relative;
+                                                overflow: hidden;
+                                                width: 140px;
+                                                height: 50px;
+                                                border-radius: 25px;
+                                                border: 0;
+                                                color: #f7f7f7;
+                                                background: #275efe;
+                                                font-family: Poppins;
+                                                cursor: pointer;
+                                                transition: 0.2s;
+                                            ">
+                                                <span class="button-textM">
+                                                    <span>Share</span>
+                                                    <i class="fas fa-share">
+                                                    </i>
+                                                </span>
+                                                <span class="button-links">
+                                                    <a>
+                                                       <i class="fab fa-twitter">
+                                                       </i> 
+                                                    </a>
+                                                    <a>
+                                                        <i class="fab fa-facebook"></i>
+                                                    </a>
+                                                    <a>
+                                                        <i class="fab fa-linkedin"></i>
+                                                    </a>
+                                                </span>
+                                            </button></td>
+                                        </tr>
+                                        <tr>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >Kesselhaus
+                                            </td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >Berlin, Germany</td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >May. 18, 2023</td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >
+                                                <p>Upcoming</p>
+                                            </td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            ><button class="buttonN" 
+                                            style="
+                                                position: relative;
+                                                overflow: hidden;
+                                                width: 140px;
+                                                height: 50px;
+                                                border-radius: 25px;
+                                                border: 0;
+                                                color: #f7f7f7;
+                                                background: #275efe;
+                                                font-family: Poppins;
+                                                cursor: pointer;
+                                                transition: 0.2s;
+                                            ">
+                                                <span class="button-textM">
+                                                    <span>Share</span>
+                                                    <i class="fas fa-share">
+                                                    </i>
+                                                </span>
+                                                <span class="button-links">
+                                                    <a>
+                                                       <i class="fab fa-twitter">
+                                                       </i> 
+                                                    </a>
+                                                    <a>
+                                                        <i class="fab fa-facebook"></i>
+                                                    </a>
+                                                    <a>
+                                                        <i class="fab fa-linkedin"></i>
+                                                    </a>
+                                                </span>
+                                            </button></td>
+                                        </tr>
+                                        <tr>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >Felsenkeller Leipzig
+                                            </td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >Leipzig, Germany</td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >May. 20, 2023</td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            >
+                                                <p>Upcoming</p>
+                                            </td>
+                                            <td
+                                                style="
+                                                    padding: 3rem;
+                                                    border-bottom: 1px solid #ccc;
+                                                "
+                                            ><button class="buttonN" 
+                                            style="
+                                                position: relative;
+                                                overflow: hidden;
+                                                width: 140px;
+                                                height: 50px;
+                                                border-radius: 25px;
+                                                border: 0;
+                                                color: #f7f7f7;
+                                                background: #275efe;
+                                                font-family: Poppins;
+                                                cursor: pointer;
+                                                transition: 0.2s;
+                                            ">
+                                                <span class="button-textM">
+                                                    <span>Share</span>
+                                                    <i class="fas fa-share">
+                                                    </i>
+                                                </span>
+                                                <span class="button-links">
+                                                    <a>
+                                                       <i class="fab fa-twitter">
+                                                       </i> 
+                                                    </a>
+                                                    <a>
+                                                        <i class="fab fa-facebook"></i>
+                                                    </a>
+                                                    <a>
+                                                        <i class="fab fa-linkedin"></i>
+                                                    </a>
+                                                </span>
+                                            </button></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </section>
+                        </main>
+                    </p>
                 </div>
-                <h2 data-w-id="5a6ca962-424a-4448-a5db-41fd2a27becb" class="heding-size-custom text-weight-light">Guided by its people’s </h2>
+                <!-- <h2 data-w-id="5a6ca962-424a-4448-a5db-41fd2a27becb" class="heding-size-custom text-weight-light">Guided by its people’s </h2>
                 <p data-w-id="7e8d935b-297e-ff6e-e23e-a68bca199e85" class="main-paragraph max-width">deep passion for music, artists and the independent music community, UNIFIED leads a professional, innovative and motivated team to achieve extraordinary results.</p>
                 <p data-w-id="7e8d935b-297e-ff6e-e23e-a68bca199e85" class="main-paragraph max-width">UNIFIED Music Group would like to acknowledge the Wurundjeri, Gadigal & Boon Wurrung people of the Kulin & Eora nations, and recognise their continuing connection to the Country on which we work from and are present on. We also pay our respects to First Nations Elders past and present, and continue to embrace the learnings and culture First Nations people so generously share.</p>
                 <img src="images/about-header-1.jpg" loading="lazy" data-w-id="00bc2148-95ed-c7e3-f6d0-ed2da8f4debc" sizes="(max-width: 479px) 100vw, (max-width: 767px) 64vw, (max-width: 991px) 59vw, 34vw" alt="" class="main-image position-absolute"/>
-                <img src="images/about-header-1.jpg" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 47vw, (max-width: 991px) 44vw, 24vw" alt="" class="main-image moved"/>
+                <img src="images/about-header-1.jpg" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 47vw, (max-width: 991px) 44vw, 24vw" alt="" class="main-image moved"/> -->
             </div>
             <div class="project-section wf-section">
                 <div class="container-video hide-mobile-landscape">
@@ -303,6 +1061,10 @@
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                             allowfullscreen>
                         </iframe>
+                        <!-- <video autoplay loop muted>
+                            <source src="videos/playing-god.mp4" type="video/mp4">
+                            Tu navegador no soporta el elemento de video.
+                        </video> -->
                     </div>
                     <div data-poster-url="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de727345b29867f2ea07d_pexels-koolshooters-7673888 (2) (video-convertercom) (1)-poster-00001.jpg" data-video-urls="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de727345b29867f2ea07d_pexels-koolshooters-7673888 (2) (video-convertercom) (1)-transcode.mp4,https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de727345b29867f2ea07d_pexels-koolshooters-7673888 (2) (video-convertercom) (1)-transcode.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" data-w-id="0e3ee6c3-6a3e-79ec-5460-5df65a9352af" style="display:none;opacity:0" class="backhround-video w-background-video w-background-video-atom">
                         <!-- <video id="0e3ee6c3-6a3e-79ec-5460-5df65a9352af-video" autoplay="" loop="" style="background-image:url(&quot;https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de727345b29867f2ea07d_pexels-koolshooters-7673888 (2) (video-convertercom) (1)-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">

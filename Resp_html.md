@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html data-wf-domain="Official Polyphia" data-wf-page="637c988faec61b44ca2cdd83" data-wf-site="6321ad7d8fcc564b83d2b527" data-wf-status="1">
+<html data-wf-domain="vclip.webflow.io" data-wf-page="637c988faec61b44ca2cdd83" data-wf-site="6321ad7d8fcc564b83d2b527" data-wf-status="1">
     <head>
         <meta charset="utf-8"/>
         <title>Official Polyphia Merchandise. Music, Apparel, Accessories &amp; more!</title>
@@ -8,15 +8,6 @@
         <meta content="A versatile one page template that can fit any kind of creative who’s looking for a distinctive way to be on the web. From freelancers to agencies and companies, VClip is a great start to showcase the portfolio with a slick premium touch." property="og:description"/>
         <meta content="Vclip - Webflow HTML Website Template" property="twitter:title"/>
         <meta content="A versatile one page template that can fit any kind of creative who’s looking for a distinctive way to be on the web. From freelancers to agencies and companies, VClip is a great start to showcase the portfolio with a slick premium touch." property="twitter:description"/>-->
-        <!-- <meta property="og:type" content="website"/>
-        <meta content="summary_large_image" name="twitter:card"/>
-        <meta content="width=device-width, initial-scale=1" name="viewport"/>
-        <meta content="Webflow" name="generator"/> -->
-        <meta content="Official Polyphia Merchandise. Music, Apparel, Accessories &amp; more!" name="description"/>
-        <meta content="Official Polyphia Merchandise. Music, Apparel, Accessories &amp; more!" property="og:title"/>
-        <meta content="Official Polyphia Merchandise. Music, Apparel, Accessories &amp; more!" property="og:description"/>
-        <meta content="Official Polyphia Merchandise. Music, Apparel, Accessories &amp; more!" property="twitter:title"/>
-        <meta content="Official Polyphia Merchandise. Music, Apparel, Accessories &amp; more!" property="twitter:description"/>
         <meta property="og:type" content="website"/>
         <meta content="summary_large_image" name="twitter:card"/>
         <meta content="width=device-width, initial-scale=1" name="viewport"/>
@@ -34,7 +25,6 @@
         <script type="text/javascript">WebFont.load({  google: {    families: ["Oswald:200,300,400,500,600,700","Roboto:100,300,regular,500,700,900"]  }});</script>
         <link href="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637b9c5af556d2dac1a7c01e_vclip%20logo%20(1)-01.png" rel="shortcut icon" type="image/x-icon"/>
         <link href="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637b9c4679ed07419108b9c5_Senza%20titolo-1_Tavola%20disegno%201.png" rel="apple-touch-icon"/>
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.7/css/all.css">
         <script src="js/videos.js"></script>
     </head>
     <body>
@@ -80,7 +70,7 @@
                         </div>
                         <div class="wrap-link-menu">
                             <div class="container-large display-flex content-menu">
-                                <a href="./Tours.html" data-w-id="0cb27d4d-e844-b13f-e6f1-060a2af2d476" class="link-block w-inline-block">
+                                <a href="#About" data-w-id="0cb27d4d-e844-b13f-e6f1-060a2af2d476" class="link-block w-inline-block">
                                     <div data-w-id="796bd34f-3a73-c893-dd77-717af349f182" class="text-link">Tour</div>
                                     <div class="html-embed-3 link w-embed">
                                         <svg xmlns="http://www.w3.org/2000/svg" id="Livello_1" data-name="Livello 1" viewBox="0 0 75 86.6">
@@ -97,17 +87,9 @@
                                         </svg>
                                     </div>
                                 </a>
-                                <div data-w-id="1d42b84a-6f8f-d385-3485-de6a0300bdad" class="link-block w-inline-block">
-                                    <a href="" 
-                                    data-w-id="1d42b84a-6f8f-d385-3485-de6a0300bdae" class="text-link">
-                                        Merch
-                                        <!-- <i class="fas fa-share"></i> -->
-                                        <!-- <i class="fas fa-caret-right"></i> -->
-                                        <!-- <p>Merchandise</p> -->
-                                    </a>
-                                    <div class="html-embed-3 link w-embed accordion">
-                                        <!-- <details class="accordion-item">
-                                        <summary> -->
+                                <a href="#Services" data-w-id="1d42b84a-6f8f-d385-3485-de6a0300bdad" class="link-block w-inline-block">
+                                    <div data-w-id="1d42b84a-6f8f-d385-3485-de6a0300bdae" class="text-link">Merch</div>
+                                    <div class="html-embed-3 link w-embed">
                                         <svg xmlns="http://www.w3.org/2000/svg" id="Livello_1" data-name="Livello 1" viewBox="0 0 75 86.6">
                                             <defs>
                                                 <style>
@@ -118,99 +100,11 @@
                                                     }
                                                 </style>
                                             </defs>
-                                            <!-- <a href="https://fontawesome.com/icons/caret-right?f=classic&s=solid"> -->
                                             <polygon class="cls-1" points="75 43.3 0 0 0 86.6 75 43.3"/>
-                                            <!-- </a> -->
                                         </svg>
-                                        <!-- </summary> -->
-                                        <div class="accordion-content">
-                                            <table
-                                            >
-                                               <tbody>
-                                                    <tr>
-                                                        <th>
-                                                            <div class="text-link-two" style="text-decoration: none; color: black;">
-                                                                <p>
-                                                                    Music
-                                                                </p>
-                                                                <img src="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/RTYWD_CASS_BLUE_360x.png?v=1666191694" style="width: 80%; height: 80%; margin-top: -15%;">
-                                                                <p style="font-size: .7rem; margin-top: -10%;">
-                                                                    Remember That You Will Die Cassette - Limited To 1,000
-                                                                    Regular price
-                                                                    $8.00 USD
-                                                                </p>
-                                                            </div>
-                                                        </th>
-                                                        <th>
-                                                            <div class="text-link-two" style="text-decoration: none; color: black; margin-left: 20%;">
-                                                                <p>
-                                                                    Tees
-                                                                </p>
-                                                                <img src="https://cdn.shopify.com/s/files/1/0271/6018/2883/files/BlackTee-V2_360x.png?v=1683557608" style="width: 80%; height: 80%; margin-top: -5%;">
-                                                                <p style="font-size: .7rem;">
-                                                                    Ribcage Tee (Vintage Grey)
-                                                                    Regular price
-                                                                    $45.00 USD
-                                                                </p>
-                                                            </div>
-                                                        </th>
-                                                        <th>
-                                                            <div class="text-link-two" style=" text-decoration: none; color: black; margin-left: 10%;">
-                                                                <p>
-                                                                    Tabs
-                                                                </p>
-                                                                <img src="https://cdn.shopify.com/s/files/1/2262/7457/products/guitartabbundle_360x.webp?v=1652205407" style="margin-top: -5%;">
-                                                                <p style="font-size: .7rem;">
-                                                                    Polyphia - Guitar Tab Bundle
-                                                                    Regular price $70.00
-                                                                </p>
-                                                            </div>
-                                                        </th>
-                                                    </tr>
-                                                    <tr>
-                                                        <th>
-                                                            <div class="text-link-two" style=" text-decoration: none; color: black;">
-                                                                <p>
-                                                                    Outerwear
-                                                                </p>
-                                                                <img src="https://cdn.shopify.com/s/files/1/0271/6018/2883/files/PuffHoodie_360x.png?v=1682612415" style="width: 80%; height: 80%; margin-top: -5%;">
-                                                                <p style="font-size: .7rem;">
-                                                                    Puff Logo Hoodie (Vintage White)
-                                                                    Regular price
-                                                                    $75.00 USD
-                                                                </p>
-                                                            </div>
-                                                        </th>
-                                                        <th>
-                                                            <div class="text-link-two" style="text-decoration: none; color: black; margin-left: 20%;">
-                                                                <p>
-                                                                    Accessories
-                                                                </p>
-                                                                <img src="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/Polyphia-MaskMock-03_360x.png?v=1618519437" style="width: 80%; height: 80%; margin-top: -5%;">
-                                                                <p style="font-size: .7rem;">
-                                                                    New Levels New Devils Face Mask
-                                                                    Regular price
-                                                                    $10.00 USD
-                                                                </p>
-                                                            </div>
-                                                        </th>
-                                                    </tr>
-                                                    <!-- <tr>
-                                                        <th>
-                                                            <div class="text-link-two" style=" text-decoration: none; color: black; font-size: 4rem;">
-                                                                <p>
-                                                                    Tabs
-                                                                </p>
-                                                            </div>
-                                                        </th>
-                                                    </tr> -->
-                                                </tbody>
-                                            </table>
-                                        </div>
-                                        <!-- </details> -->
                                     </div>
-                                </div>
-                                <a href="https://riserecords.lnk.to/RTYWD" data-w-id="bbca39b3-07f8-e022-0219-88cae45831b2" class="link-block w-inline-block">
+                                </a>
+                                <a href="https://theunifiedgrant.com" data-w-id="bbca39b3-07f8-e022-0219-88cae45831b2" class="link-block w-inline-block">
                                     <div data-w-id="bbca39b3-07f8-e022-0219-88cae45831b3" class="text-link">Listen</div>
                                     <div class="html-embed-3 link w-embed">
                                         <svg xmlns="http://www.w3.org/2000/svg" id="Livello_1" data-name="Livello 1" viewBox="0 0 75 86.6">
@@ -227,7 +121,7 @@
                                         </svg>
                                     </div>
                                 </a>
-                                <a href="./Contact.html" data-w-id="037f52bb-36d3-3e2b-53d6-997c603f8931" class="link-block w-inline-block">
+                                <a href="#Merchandise" data-w-id="037f52bb-36d3-3e2b-53d6-997c603f8931" class="link-block w-inline-block">
                                     <div data-w-id="037f52bb-36d3-3e2b-53d6-997c603f8932" class="text-link">Contact</div>
                                     <div class="html-embed-3 link w-embed">
                                         <svg xmlns="http://www.w3.org/2000/svg" id="Livello_1" data-name="Livello 1" viewBox="0 0 75 86.6">
@@ -327,783 +221,26 @@
                     <h1 data-w-id="3423d055-ab50-fb59-02d6-8dfdb83e7d44" class="heading-style-h1 text-color-white position-absolute text-align-center">The way you see the things <br/>make the difference<br/></h1>
                 </div>
                 <div data-w-id="3667a77e-b20e-b1cb-924f-56f5c3e08b7f" style="opacity:0" class="column position-absolute">
-                    <img src="https://t2.genius.com/unsafe/224x224/https%3A%2F%2Fimages.genius.com%2F34a10721c3085ac27ce4b6e0b77ee490.999x999x1.png" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, 155.33279418945312px" srcset="https://t2.genius.com/unsafe/224x224/https%3A%2F%2Fimages.genius.com%2F34a10721c3085ac27ce4b6e0b77ee490.999x999x1.png 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637766102c8a5c594c179f8d_23-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637766102c8a5c594c179f8d_23-p-1080.jpg 1080w, https://t2.genius.com/unsafe/224x224/https%3A%2F%2Fimages.genius.com%2F34a10721c3085ac27ce4b6e0b77ee490.999x999x1.png" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 37vw, (max-width: 991px) 200px, 12vw" alt="" class="image-scrolling"/>
-                    <img src="https://t2.genius.com/unsafe/237x237/https%3A%2F%2Fimages.genius.com%2F167055a1ad0539254945b355087a259b.1000x1000x1.png" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 767px) 32vw, (max-width: 991px) 20vw, (max-width: 1439px) 155.33279418945312px, 11vw" srcset="https://t2.genius.com/unsafe/237x237/https%3A%2F%2Fimages.genius.com%2F167055a1ad0539254945b355087a259b.1000x1000x1.png 500w, https://t2.genius.com/unsafe/237x237/https%3A%2F%2Fimages.genius.com%2F167055a1ad0539254945b355087a259b.1000x1000x1.png" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 991px) 37vw, 18vw" alt="" class="image-scrolling horizontal"/>
-                    <img src="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/POLYPHIA-EGODEATH-MOCKUP_540x.png?v=1658158941" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 991px) 155.332763671875px, (max-width: 1439px) 16vw, 155.332763671875px" srcset="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/POLYPHIA-EGODEATH-MOCKUP_540x.png?v=1658158941 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-1080.jpg 1080w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-1600.jpg 1600w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-2000.jpg" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 991px) 37vw, 18vw" alt="" class="image-scrolling horizontal"/>
+                    <img src="images/about-header-1.jpg" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 37vw, (max-width: 991px) 200px, 12vw" alt="" class="image-scrolling"/>
+                    <img src="images/BOOMTOWNBOOKSHELF_UNFD-DLL.jpg" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 991px) 37vw, 18vw" alt="" class="image-scrolling horizontal"/>
+                    <img src="images/default-header.jpg" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 991px) 37vw, 18vw" alt="" class="image-scrolling horizontal"/>
                 </div>
                 <div data-w-id="177d8327-c7e3-9107-84da-ce4406cd1a28" style="opacity:0" class="column position-absolute second">
-                    <img src="https://t2.genius.com/unsafe/243x243/https%3A%2F%2Fimages.genius.com%2F57cd54e933d6d2fbb610a004acf74473.1000x1000x1.png" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 991px) 37vw, 18vw" alt="" class="image-scrolling horizontal _2"/>
-                    <img src="https://t2.genius.com/unsafe/227x227/https%3A%2F%2Fimages.genius.com%2F8c86adfbe4940cf0c9595483090c5b49.1000x1000x1.png" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 767px) 32vw, (max-width: 991px) 20vw, (max-width: 1439px) 16vw, 11vw" srcset="https://t2.genius.com/unsafe/227x227/https%3A%2F%2Fimages.genius.com%2F8c86adfbe4940cf0c9595483090c5b49.1000x1000x1.png 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377662865ea181433b6e3af_22-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377662865ea181433b6e3af_22-p-1080.jpg 1080w, https://t2.genius.com/unsafe/227x227/https%3A%2F%2Fimages.genius.com%2F8c86adfbe4940cf0c9595483090c5b49.1000x1000x1.png" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 991px) 37vw, 18vw" alt="" class="image-scrolling horizontal _2"/>
-                    <img src="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/CD-DISCFACE_dca5b7a9-3100-4539-b2d4-6d7b6dceebf5_540x.png?v=1662044404" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 37vw, (max-width: 991px) 200px, 12vw" alt="" class="image-scrolling"/>
+                    <img src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/63847950f1211d956716ec3c_pedro-vit-nxssxDuytMA-unsplash.jpg" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 991px) 37vw, 18vw" alt="" class="image-scrolling horizontal _2"/>
+                    <img src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6380df351484f1180f13eb98_flaunter-cGbSFYVETQM-unsplash%20(1).jpg" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 991px) 37vw, 18vw" alt="" class="image-scrolling horizontal _2"/>
+                    <img src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321c93a5eab742e94c5ce75_pexels-ron-lach-8089655.jpg" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 37vw, (max-width: 991px) 200px, 12vw" alt="" class="image-scrolling"/>
                 </div>
             </div>
             <div id="About" data-w-id="b92a3088-45eb-d066-6cc9-cf24c0d3dd4f" style="filter:invert(100%)" class="about-section padding-left padding-custom-first wf-section">
                 <div class="description padding-left padding-custom-first">
-                    <h2 data-w-id="2cb8daab-ae2f-3ad3-e0c2-1db06c64f944" class="heding-size-custom text-weight-light">Tours</h2>
-                    <p data-w-id="9a3f507b-90ec-d69c-e8b9-e7130d4db850" class="main-paragraph max-width second">
-                        <!-- is a globally renowned multi-service music company. 
-                        Formed in Melbourne, Australia, 
-                        UNIFIED provides a range of services including artist management, 
-                        recorded music, publishing, 
-                        live events and merchandise to a diverse roster of local 
-                        and international artists. With its head office based in the 
-                        heartbeat of Melbourne’s live music scene, UNIFIED continues 
-                        to pursue its global vision and now houses teams in Sydney, 
-                        Los Angeles, Nashville, Canada and the UK. -->
-                        <main class="table" style="
-                            width: 100%;
-                            height: 90vh;
-                            backdrop-filter: blur(7px);
-                            box-shadow: 0 .4rem .8rem #0005;
-                            border-radius: .8rem;
-                            overflow: hidden;
-                        ">
-                            <section class="table__header"
-                                style="
-                                    width: 100%;
-                                    height: 10%;
-                                    padding: .8rem .1rem;
-                                "
-                            >
-                                <!-- <h1>Customer's Orders</h1> -->
-                            </section>
-                            <section class="table__body"
-                                style="
-                                    width: 95%;
-                                    max-height: calc(89% - .8rem);
-                                    margin: .8rem auto;
-                                    border-radius: .6rem;
-                                    overflow: auto;
-                                "
-                            >
-                                <table
-                                    style="
-                                        padding: 1rem;
-                                        width: 100%;
-                                        border-collapse: collapse;
-                                    "
-                                >
-                                    <thead>
-                                        <tr>
-                                            <th
-                                                style="
-                                                    padding: 1rem;
-                                                    position: relative;
-                                                    top: 0;
-                                                    left: 0;
-                                                    border-collapse: collapse;
-                                                "
-                                            >Site</th>
-                                            <th
-                                                style="
-                                                    padding: 1rem;
-                                                    position: relative;
-                                                    top: 0;
-                                                    left: 0;
-                                                    border-collapse: collapse;
-                                                "
-                                            >Location</th>
-                                            <th
-                                                style="
-                                                    padding: 1rem;
-                                                    position: relative;
-                                                    top: 0;
-                                                    left: 0;
-                                                    border-collapse: collapse;
-                                                "
-                                            >Order Date</th>
-                                            <th
-                                                style="
-                                                    padding: 1rem;
-                                                    position: relative;
-                                                    top: 0;
-                                                    left: 0;
-                                                    border-collapse: collapse;
-                                                "
-                                            >Status</th>
-                                            <th
-                                                style="
-                                                    padding: 1rem;
-                                                    position: relative;
-                                                    top: 0;
-                                                    left: 0;
-                                                    border-collapse: collapse;
-                                                "
-                                            >Links</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >SWX
-                                            </td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            > Bristol, United Kingdom </td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            > May. 9, 2023 </td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >
-                                                <p>Upcoming</p>
-                                            </td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            ><button class="buttonN" 
-                                            style="
-                                                position: relative;
-                                                overflow: hidden;
-                                                width: 140px;
-                                                height: 50px;
-                                                border-radius: 25px;
-                                                border: 0;
-                                                color: #f7f7f7;
-                                                background: #275efe;
-                                                font-family: Poppins;
-                                                cursor: pointer;
-                                                transition: 0.2s;
-                                            ">
-                                                <span class="button-textM">
-                                                    <span>Share</span>
-                                                    <i class="fas fa-share">
-                                                    </i>
-                                                </span>
-                                                <span class="button-links">
-                                                    <a>
-                                                       <i class="fab fa-twitter">
-                                                       </i> 
-                                                    </a>
-                                                    <a>
-                                                        <i class="fab fa-facebook"></i>
-                                                    </a>
-                                                    <a>
-                                                        <i class="fab fa-linkedin"></i>
-                                                    </a>
-                                                </span>
-                                            </button></td>
-                                        </tr>
-                                        <tr>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >Garage 2 (G2)
-                                            </td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >Glasgow, United Kingdom</td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >May. 10, 2023</td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >
-                                                <p>Upcoming</p>
-                                            </td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            ><button class="buttonN" 
-                                            style="
-                                                position: relative;
-                                                overflow: hidden;
-                                                width: 140px;
-                                                height: 50px;
-                                                border-radius: 25px;
-                                                border: 0;
-                                                color: #f7f7f7;
-                                                background: #275efe;
-                                                font-family: Poppins;
-                                                cursor: pointer;
-                                                transition: 0.2s;
-                                            ">
-                                                <span class="button-textM">
-                                                    <span>Share</span>
-                                                    <i class="fas fa-share">
-                                                    </i>
-                                                </span>
-                                                <span class="button-links">
-                                                    <a>
-                                                       <i class="fab fa-twitter">
-                                                       </i> 
-                                                    </a>
-                                                    <a>
-                                                        <i class="fab fa-facebook"></i>
-                                                    </a>
-                                                    <a>
-                                                        <i class="fab fa-linkedin"></i>
-                                                    </a>
-                                                </span>
-                                            </button></td>
-                                        </tr>
-                                        <tr>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >O2 Shepherds Bush Empire
-                                            </td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >London, United Kingdom</td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >May. 11, 2023</td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >
-                                                <p>Upcoming</p>
-                                            </td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            ><button class="buttonN" 
-                                            style="
-                                                position: relative;
-                                                overflow: hidden;
-                                                width: 140px;
-                                                height: 50px;
-                                                border-radius: 25px;
-                                                border: 0;
-                                                color: #f7f7f7;
-                                                background: #275efe;
-                                                font-family: Poppins;
-                                                cursor: pointer;
-                                                transition: 0.2s;
-                                            ">
-                                                <span class="button-textM">
-                                                    <span>Share</span>
-                                                    <i class="fas fa-share">
-                                                    </i>
-                                                </span>
-                                                <span class="button-links">
-                                                    <a>
-                                                       <i class="fab fa-twitter">
-                                                       </i> 
-                                                    </a>
-                                                    <a>
-                                                        <i class="fab fa-facebook"></i>
-                                                    </a>
-                                                    <a>
-                                                        <i class="fab fa-linkedin"></i>
-                                                    </a>
-                                                </span>
-                                            </button></td>
-                                        </tr>
-                                        <tr>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >O2 Institute
-                                            </td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >Birmingham, United Kingdom</td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >May. 12, 2023</td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >
-                                                <p>Upcoming</p>
-                                            </td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            ><button class="buttonN" 
-                                            style="
-                                                position: relative;
-                                                overflow: hidden;
-                                                width: 140px;
-                                                height: 50px;
-                                                border-radius: 25px;
-                                                border: 0;
-                                                color: #f7f7f7;
-                                                background: #275efe;
-                                                font-family: Poppins;
-                                                cursor: pointer;
-                                                transition: 0.2s;
-                                            ">
-                                                <span class="button-textM">
-                                                    <span>Share</span>
-                                                    <i class="fas fa-share">
-                                                    </i>
-                                                </span>
-                                                <span class="button-links">
-                                                    <a>
-                                                       <i class="fab fa-twitter">
-                                                       </i> 
-                                                    </a>
-                                                    <a>
-                                                        <i class="fab fa-facebook"></i>
-                                                    </a>
-                                                    <a>
-                                                        <i class="fab fa-linkedin"></i>
-                                                    </a>
-                                                </span>
-                                            </button></td>
-                                        </tr>
-                                        <tr>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >O2 Ritz
-                                            </td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >Manchester, United Kingdom</td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >May. 13, 2023</td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >
-                                                <p>Upcoming</p>
-                                            </td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            ><button class="buttonN" 
-                                            style="
-                                                position: relative;
-                                                overflow: hidden;
-                                                width: 140px;
-                                                height: 50px;
-                                                border-radius: 25px;
-                                                border: 0;
-                                                color: #f7f7f7;
-                                                background: #275efe;
-                                                font-family: Poppins;
-                                                cursor: pointer;
-                                                transition: 0.2s;
-                                            ">
-                                                <span class="button-textM">
-                                                    <span>Share</span>
-                                                    <i class="fas fa-share">
-                                                    </i>
-                                                </span>
-                                                <span class="button-links">
-                                                    <a>
-                                                       <i class="fab fa-twitter">
-                                                       </i> 
-                                                    </a>
-                                                    <a>
-                                                        <i class="fab fa-facebook"></i>
-                                                    </a>
-                                                    <a>
-                                                        <i class="fab fa-linkedin"></i>
-                                                    </a>
-                                                </span>
-                                            </button></td>
-                                        </tr>
-                                        <tr>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >Trix
-                                            </td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >Antwerpen, Belgium</td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >Antwerpen, Belgium</td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >
-                                                <p>Upcoming</p>
-                                            </td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            ><button class="buttonN" 
-                                            style="
-                                                position: relative;
-                                                overflow: hidden;
-                                                width: 140px;
-                                                height: 50px;
-                                                border-radius: 25px;
-                                                border: 0;
-                                                color: #f7f7f7;
-                                                background: #275efe;
-                                                font-family: Poppins;
-                                                cursor: pointer;
-                                                transition: 0.2s;
-                                            ">
-                                                <span class="button-textM">
-                                                    <span>Share</span>
-                                                    <i class="fas fa-share">
-                                                    </i>
-                                                </span>
-                                                <span class="button-links">
-                                                    <a>
-                                                       <i class="fab fa-twitter">
-                                                       </i> 
-                                                    </a>
-                                                    <a>
-                                                        <i class="fab fa-facebook"></i>
-                                                    </a>
-                                                    <a>
-                                                        <i class="fab fa-linkedin"></i>
-                                                    </a>
-                                                </span>
-                                            </button></td>
-                                        </tr>
-                                        <tr>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >Melkweg
-                                            </td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >Amsterdam, Netherlands</td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >May. 16, 2023</td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >
-                                                <p>Upcoming</p>
-                                            </td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            ><button class="buttonN" 
-                                            style="
-                                                position: relative;
-                                                overflow: hidden;
-                                                width: 140px;
-                                                height: 50px;
-                                                border-radius: 25px;
-                                                border: 0;
-                                                color: #f7f7f7;
-                                                background: #275efe;
-                                                font-family: Poppins;
-                                                cursor: pointer;
-                                                transition: 0.2s;
-                                            ">
-                                                <span class="button-textM">
-                                                    <span>Share</span>
-                                                    <i class="fas fa-share">
-                                                    </i>
-                                                </span>
-                                                <span class="button-links">
-                                                    <a>
-                                                       <i class="fab fa-twitter">
-                                                       </i> 
-                                                    </a>
-                                                    <a>
-                                                        <i class="fab fa-facebook"></i>
-                                                    </a>
-                                                    <a>
-                                                        <i class="fab fa-linkedin"></i>
-                                                    </a>
-                                                </span>
-                                            </button></td>
-                                        </tr>
-                                        <tr>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >Fabrik
-                                            </td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >Hamburg, Germany</td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >May. 17, 2023</td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >
-                                                <p>Upcoming</p>
-                                            </td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            ><button class="buttonN" 
-                                            style="
-                                                position: relative;
-                                                overflow: hidden;
-                                                width: 140px;
-                                                height: 50px;
-                                                border-radius: 25px;
-                                                border: 0;
-                                                color: #f7f7f7;
-                                                background: #275efe;
-                                                font-family: Poppins;
-                                                cursor: pointer;
-                                                transition: 0.2s;
-                                            ">
-                                                <span class="button-textM">
-                                                    <span>Share</span>
-                                                    <i class="fas fa-share">
-                                                    </i>
-                                                </span>
-                                                <span class="button-links">
-                                                    <a>
-                                                       <i class="fab fa-twitter">
-                                                       </i> 
-                                                    </a>
-                                                    <a>
-                                                        <i class="fab fa-facebook"></i>
-                                                    </a>
-                                                    <a>
-                                                        <i class="fab fa-linkedin"></i>
-                                                    </a>
-                                                </span>
-                                            </button></td>
-                                        </tr>
-                                        <tr>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >Kesselhaus
-                                            </td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >Berlin, Germany</td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >May. 18, 2023</td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >
-                                                <p>Upcoming</p>
-                                            </td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            ><button class="buttonN" 
-                                            style="
-                                                position: relative;
-                                                overflow: hidden;
-                                                width: 140px;
-                                                height: 50px;
-                                                border-radius: 25px;
-                                                border: 0;
-                                                color: #f7f7f7;
-                                                background: #275efe;
-                                                font-family: Poppins;
-                                                cursor: pointer;
-                                                transition: 0.2s;
-                                            ">
-                                                <span class="button-textM">
-                                                    <span>Share</span>
-                                                    <i class="fas fa-share">
-                                                    </i>
-                                                </span>
-                                                <span class="button-links">
-                                                    <a>
-                                                       <i class="fab fa-twitter">
-                                                       </i> 
-                                                    </a>
-                                                    <a>
-                                                        <i class="fab fa-facebook"></i>
-                                                    </a>
-                                                    <a>
-                                                        <i class="fab fa-linkedin"></i>
-                                                    </a>
-                                                </span>
-                                            </button></td>
-                                        </tr>
-                                        <tr>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >Felsenkeller Leipzig
-                                            </td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >Leipzig, Germany</td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >May. 20, 2023</td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            >
-                                                <p>Upcoming</p>
-                                            </td>
-                                            <td
-                                                style="
-                                                    padding: 3rem;
-                                                    border-bottom: 1px solid #ccc;
-                                                "
-                                            ><button class="buttonN" 
-                                            style="
-                                                position: relative;
-                                                overflow: hidden;
-                                                width: 140px;
-                                                height: 50px;
-                                                border-radius: 25px;
-                                                border: 0;
-                                                color: #f7f7f7;
-                                                background: #275efe;
-                                                font-family: Poppins;
-                                                cursor: pointer;
-                                                transition: 0.2s;
-                                            ">
-                                                <span class="button-textM">
-                                                    <span>Share</span>
-                                                    <i class="fas fa-share">
-                                                    </i>
-                                                </span>
-                                                <span class="button-links">
-                                                    <a>
-                                                       <i class="fab fa-twitter">
-                                                       </i> 
-                                                    </a>
-                                                    <a>
-                                                        <i class="fab fa-facebook"></i>
-                                                    </a>
-                                                    <a>
-                                                        <i class="fab fa-linkedin"></i>
-                                                    </a>
-                                                </span>
-                                            </button></td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </section>
-                        </main>
-                    </p>
+                    <h2 data-w-id="2cb8daab-ae2f-3ad3-e0c2-1db06c64f944" class="heding-size-custom text-weight-light">UNIFIED Music Group</h2>
+                    <p data-w-id="9a3f507b-90ec-d69c-e8b9-e7130d4db850" class="main-paragraph max-width second">is a globally renowned multi-service music company. Formed in Melbourne, Australia, UNIFIED provides a range of services including artist management, recorded music, publishing, live events and merchandise to a diverse roster of local and international artists. With its head office based in the heartbeat of Melbourne’s live music scene, UNIFIED continues to pursue its global vision and now houses teams in Sydney, Los Angeles, Nashville, Canada and the UK.</p>
                 </div>
-                <!-- <h2 data-w-id="5a6ca962-424a-4448-a5db-41fd2a27becb" class="heding-size-custom text-weight-light">Guided by its people’s </h2>
+                <h2 data-w-id="5a6ca962-424a-4448-a5db-41fd2a27becb" class="heding-size-custom text-weight-light">Guided by its people’s </h2>
                 <p data-w-id="7e8d935b-297e-ff6e-e23e-a68bca199e85" class="main-paragraph max-width">deep passion for music, artists and the independent music community, UNIFIED leads a professional, innovative and motivated team to achieve extraordinary results.</p>
                 <p data-w-id="7e8d935b-297e-ff6e-e23e-a68bca199e85" class="main-paragraph max-width">UNIFIED Music Group would like to acknowledge the Wurundjeri, Gadigal & Boon Wurrung people of the Kulin & Eora nations, and recognise their continuing connection to the Country on which we work from and are present on. We also pay our respects to First Nations Elders past and present, and continue to embrace the learnings and culture First Nations people so generously share.</p>
                 <img src="images/about-header-1.jpg" loading="lazy" data-w-id="00bc2148-95ed-c7e3-f6d0-ed2da8f4debc" sizes="(max-width: 479px) 100vw, (max-width: 767px) 64vw, (max-width: 991px) 59vw, 34vw" alt="" class="main-image position-absolute"/>
-                <img src="images/about-header-1.jpg" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 47vw, (max-width: 991px) 44vw, 24vw" alt="" class="main-image moved"/> -->
+                <img src="images/about-header-1.jpg" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 47vw, (max-width: 991px) 44vw, 24vw" alt="" class="main-image moved"/>
             </div>
             <div class="project-section wf-section">
                 <div class="container-video hide-mobile-landscape">
@@ -1166,10 +303,6 @@
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                             allowfullscreen>
                         </iframe>
-                        <!-- <video autoplay loop muted>
-                            <source src="videos/playing-god.mp4" type="video/mp4">
-                            Tu navegador no soporta el elemento de video.
-                        </video> -->
                     </div>
                     <div data-poster-url="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de727345b29867f2ea07d_pexels-koolshooters-7673888 (2) (video-convertercom) (1)-poster-00001.jpg" data-video-urls="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de727345b29867f2ea07d_pexels-koolshooters-7673888 (2) (video-convertercom) (1)-transcode.mp4,https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de727345b29867f2ea07d_pexels-koolshooters-7673888 (2) (video-convertercom) (1)-transcode.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" data-w-id="0e3ee6c3-6a3e-79ec-5460-5df65a9352af" style="display:none;opacity:0" class="backhround-video w-background-video w-background-video-atom">
                         <!-- <video id="0e3ee6c3-6a3e-79ec-5460-5df65a9352af-video" autoplay="" loop="" style="background-image:url(&quot;https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de727345b29867f2ea07d_pexels-koolshooters-7673888 (2) (video-convertercom) (1)-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
@@ -1318,239 +451,30 @@
                         <div class="section-heading text-style-allcaps no-stiky">Shop</div>
                         <div class="wrap-text wedding">
                             <p data-w-id="fcf698cd-2c60-299e-aa0c-a091d02623a0" class="main-text text-size-medium secondari-font max-width">
-                                <!-- UNIFIED’s Recorded Music division comprises a variety of record labels as well as label and publishing services. -->
-                                <div data-w-id="fcf698cd-2c60-299e-aa0c-a091d02623a0" class="main-text text-size-medium secondari-font max-width" style="
-                                    width: 420px;
-                                    height: 580px;
-                                    background: #191919;
-                                    border-radius: 20px;
-                                    overflow: hidden;
-                                    margin-top: -10vh;
-                                ">
-                                    <div style="
-                                        width: 100%;
-                                        display: flex;
-                                        justify-content: center;
-                                        align-items: center;
-                                        padding-top: 10px;
-                                        z-index: 1;                             
-                                    ">
-                                        <img src="https://t2.genius.com/unsafe/224x224/https%3A%2F%2Fimages.genius.com%2F34a10721c3085ac27ce4b6e0b77ee490.999x999x1.png"/>
-                                    </div>
-                                    <p data-w-id="fcf698cd-2c60-299e-aa0c-a091d02623a0"
-                                    style=
-                                    "
-                                        font-size: 1.3vh;
-                                        color: white;
-                                        font-weight: 500;
-                                        text-transform: uppercase;
-                                        letter-spacing: 1px;
-                                        text-align: center;
-                                    "
-                                    >
-                                    Remember That You Will <br>
-                                    Die – Memento Mori Variant LP - Limited to <br>
-                                    1,500
-                                    </p>
-                                    <p data-w-id="fcf698cd-2c60-299e-aa0c-a091d02623a0"
-                                    style=
-                                    "
-                                        font-size: 24px;
-                                        color: white;
-                                        font-weight: 700;
-                                        letter-spacing: 1px;
-                                        text-align: center;
-                                    "
-                                    >
-                                    $28.00 USD
-                                    </p>
-                                    <p data-w-id="fcf698cd-2c60-299e-aa0c-a091d02623a0" class="main-text text-size-medium secondari-font max-width"
-                                    style=
-                                    "
-                                        margin-top: .5vh;
-                                        font-size: 1.675vh;
-                                        text-align: end;
-                                        margin-left: -12vh;
-                                        color: #f7f7f7;
-                                    "
-                                    >
-                                    <!-- The company’s flagship record label, UNFD was launched in 2011, and has become one of the leading heavy music labels in the world, boasting a global roster of artists and on ground staff in London, Los Angeles and Melbourne. UNFD will celebrate a decade of existence in 2021. -->
-                                    Limited to 4 <br> units per customer. <br>
-
-                                    Includes digital <br> download, to be <br> delivered on <br> October 28th, 2022. <br>
-
-                                    Limited to <br> 1,500 units. <br>
-
-                                    Tracklist: <br>
-                                    </p>
-                                    <p data-w-id="fcf698cd-2c60-299e-aa0c-a091d02623a0" class="main-text text-size-medium secondari-font max-width"
-                                    style=
-                                    "
-                                        margin-top: 1.5vh;
-                                        font-size: 1.675vh;
-                                        text-align: start;
-                                        margin-top: -19vh;
-                                        margin-left: 2vh;
-                                        color: #f7f7f7;
-                                    "
-                                    >
-                                    <strong>1.</strong> Genesis feat. Brasstracks <br>
-                                    <strong>2.</strong> Playing God <br>
-                                    <strong>3.</strong> The Audacity feat. Anomalie <br>
-                                    <strong>4.</strong> Reverie <br>
-                                    <strong>5.</strong> ABC feat. Sophia Black <br>
-                                    <strong>6.</strong> Memento Mori feat. Killstation <br>
-                                    <strong>7.</strong> Fuck Around and Find Out feat. $not <br>
-                                    <strong>8.</strong> All Falls Apart <br>
-                                    <strong>9.</strong> Neurotica <br>
-                                    <strong>10.</strong> Chimera feat. Lil West <br>
-                                    <strong>11.</strong> Bloodbath feat. Chino Moreno <br>
-                                    <strong>12.</strong> Ego Death feat. Steve Vai <br> 
-                                    </p>
-                                </div>
-                                <!-- <br><br>
-                                    
+                                UNIFIED’s Recorded Music division comprises a variety of record labels as well as label and publishing services.
+                                <br><br>
+                                The company’s flagship record label, UNFD was launched in 2011, and has become one of the leading heavy music labels in the world, boasting a global roster of artists and on ground staff in London, Los Angeles and Melbourne. UNFD will celebrate a decade of existence in 2021.
+                                <br><br>
                                 In 2017, UNIFIED invested in two independent record labels. Domestic La La, an alternative rock label in conjunction with James Tidswell. And THAA Records, a partnership with The Hills Are Alive group. In addition, the company provides independent label services to a range of Australian artists such as Ocean Alley, Jack Botts and Didirri.
                                 <br><br>
                                 Our labels are distributed globally by The Orchard.
                                 <br><br>
-                                Meanwhile, UNIFIED Publishing – a collaboration with Mushroom Music Publishing – provides publishing services for of artists including Vance Joy, Northlane, Dear Seattle and many more. -->
-                                <div data-w-id="fcf698cd-2c60-299e-aa0c-a091d02623a0" class="main-text text-size-medium secondari-font max-width" style="
-                                    box-shadow: rgba(0, 0, 0, 0.6) 0px 4px 40px 5px;
-                                    border: 1px solid black;
-                                    border-radius: 2vh;
-                                    margin-top: 5vh;
-                                    background-color: black;
-                                    color: #f7f7f7;
-                                ">
-                                    <p data-w-id="fcf698cd-2c60-299e-aa0c-a091d02623a0" class="main-text text-size-medium secondari-font max-width"
-                                    style=
-                                    "
-                                        font-weight: bold;
-                                        font-size: 1.9vh;
-                                        margin-top: 1vh;
-                                        text-align: center;
-                                        border-bottom: 1px solid #f7f7f7;
-                                    "
-                                    >
-                                    
-                                    Remember That You Will <br>
-                                    Die – Digital Album
-                                    </p>
-                                    <div style="position: absolute; margin-top: -6.5vh; margin-left: 27vh; width: 100vh;">
-                                        <img src="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/DIGITALMOCKWITHARTWORK_360x.png?v=1662044670"/>
-                                    </div>
-                                    <p data-w-id="fcf698cd-2c60-299e-aa0c-a091d02623a0" class="main-text text-size-medium secondari-font max-width"
-                                    style=
-                                    "
-                                        margin-top: .5vh;
-                                        font-size: 1.75vh;
-                                        font-weight: bold;
-                                        text-align: center;
-                                    "
-                                    >
-                                    $7.00 USD
-                                    </p>
-                                    <p data-w-id="fcf698cd-2c60-299e-aa0c-a091d02623a0" class="main-text text-size-medium secondari-font max-width"
-                                    style=
-                                    "
-                                        margin-top: 1.5vh;
-                                        font-size: 1.675vh;
-                                        margin-left: 2vh;
-                                    "
-                                    >
-                                    <!-- The company’s flagship record label, UNFD was launched in 2011, and has become one of the leading heavy music labels in the world, boasting a global roster of artists and on ground staff in London, Los Angeles and Melbourne. UNFD will celebrate a decade of existence in 2021. -->
-                                    <strong>1.</strong> Genesis feat. Brasstracks <br>
-                                    <strong>2.</strong> Playing God <br>
-                                    <strong>3.</strong> The Audacity feat. Anomalie <br>
-                                    <strong>4.</strong> Reverie <br>
-                                    <strong>5.</strong> ABC feat. Sophia Black <br>
-                                    <strong>6.</strong> Memento Mori feat. Killstation <br>
-                                    <strong>7.</strong> Fuck Around and Find Out feat. $not <br>
-                                    <strong>8.</strong> All Falls Apart <br>
-                                    <strong>9.</strong> Neurotica <br>
-                                    <strong>10</strong> Chimera feat. Lil West <br>
-                                    <strong>11</strong> Bloodbath feat. Chino Moreno <br>
-                                    <strong>12</strong> Ego Death feat. Steve Vai <br>
-                                    </p>
-                                </div>
+                                Meanwhile, UNIFIED Publishing – a collaboration with Mushroom Music Publishing – provides publishing services for of artists including Vance Joy, Northlane, Dear Seattle and many more.
                             </p>
-                            <!-- <div class="div-block">
+                            <div class="div-block">
                                 <p data-w-id="b47c055d-f198-dcc4-3ecd-4efd1189d975" class="main-text text-size-medium secondari-font max-width _2"><strong>Services</strong><br/>Photo Album<br/>Photo Shooting</p>
                                 <p data-w-id="032f0127-1b90-b5eb-f1b0-bb0acd4d4217" class="main-text text-size-medium secondari-font max-width _2"><br/>Video Editing<br/>Video Drone</p>
-                            </div> -->
+                            </div>
                         </div>
                         <div class="wrap-text absolute events">
-                            <p data-w-id="b06b6c7b-f6d6-b01e-99bc-97e65a83dc64" class="main-text text-size-medium secondari-font max-width">
-                            <div data-w-id="b06b6c7b-f6d6-b01e-99bc-97e65a83dc64" class="main-text text-size-medium secondari-font max-width" style="
-                                width: 320px;
-                                height: 480px;
-                                background: #191919;
-                                border-radius: 20px;
-                                overflow: hidden;
-                                margin-top: -10vh;
-                            ">
-                                    <div style="
-                                        width: 100%;
-                                        display: flex;
-                                        justify-content: center;
-                                        align-items: center;
-                                        padding-top: 10px;
-                                        z-index: 1;                                    
-                                    ">
-                                        <img src="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/PhotoTee_3_360x.png?v=1668615439"/>
-                                    </div>
-                                <p data-w-id="b06b6c7b-f6d6-b01e-99bc-97e65a83dc64"
-                                style=
-                                "
-                                    font-size: 18px;
-                                    color: white;
-                                    font-weight: 500;
-                                    text-transform: uppercase;
-                                    letter-spacing: 1px;
-                                    text-align: center;
-                                "
-                                >
-                                    RTYWD Photo Tee
-                                </p>
-                                <p data-w-id="b06b6c7b-f6d6-b01e-99bc-97e65a83dc64"
-                                style=
-                                "
-                                    font-size: 3vh;
-                                    color: white;
-                                    font-weight: 500;
-                                    text-transform: uppercase;
-                                    letter-spacing: 1px;
-                                    text-align: center;
-                                ">
-                                $30.00 USD
-                                </p>
-                                <p data-w-id="b06b6c7b-f6d6-b01e-99bc-97e65a83dc64"
-                                style=
-                                "
-                                    font-weight: 400;
-                                    font-size: 2vh;
-                                    margin-top: 1vh;
-                                    text-align: center;
-                                    color: white;
-                                "
-                                >
-                                Printed on Los Angeles Apparel garment dyed,
-                                 100% USA Cotton. 
-                                <br>
-                                Size Chart
-                                </p>
-                                <br>
-                            </div>
-                            </p>
-
-                            <!-- <div class="div-block">
+                            <p data-w-id="b06b6c7b-f6d6-b01e-99bc-97e65a83dc64" class="main-text text-size-medium secondari-font max-width"><strong>Lorem ipsum</strong> dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros <strong>elementum tristique.</strong></p>
+                            <div class="div-block">
                                 <p data-w-id="b06b6c7b-f6d6-b01e-99bc-97e65a83dc6b" class="main-text text-size-medium secondari-font max-width _2"><strong>Services</strong><br/>Video Making<br/>Video Drone</p>
-                            </div> -->
+                            </div>
                         </div>
                         <div class="wrap-text absolute content">
                             <p data-w-id="633bb2eb-e532-887f-f791-69e653c22a88" class="main-text text-size-medium secondari-font max-width">
-                                <!-- Why work with us?
+                                Why work with us?
                                 <br>
                                 UNIFIED Music Group is the soundtrack of good people working together to achieve extraordinary results. Guided by our deep passion for music, artists and the independent music community, we lead a professional, innovative and motivated team to achieve those extraordinary results. We want you to be a part of it!We aim to build careers and nurture talent within the business and UNIFIED does this by:
                                 <br><br>
@@ -1564,66 +488,7 @@
                                 <br><br>
                                 Open Roles
                                 <br>
-                                UNIFIED Music Group acknowledges the traditional custodians of the lands we work on and we pay our respect to elders past, present and emerging. We pride ourselves on being an equal opportunity employer, with a focus on ensuring that we are engaging with and supporting the local and international communities which are close to the heart of the UNIFIED Music Group Impact Committee. -->
-                                <div data-w-id="633bb2eb-e532-887f-f791-69e653c22a88" class="main-text text-size-medium secondari-font max-width" style="
-                                    width: 320px;
-                                    height: 480px;
-                                    background: #191919;
-                                    border-radius: 20px;
-                                    overflow: hidden;
-                                    margin-top: -10vh;
-                                ">
-                                    <div style="
-                                        width: 100%;
-                                        display: flex;
-                                        justify-content: center;
-                                        align-items: center;
-                                        padding-top: 10px;
-                                        z-index: 1;                                    
-                                    ">
-                                        <img src="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/POLYPHIA-EGODEATH-MOCKUP_360x.png?v=1658158941"/>
-                                    </div>
-                                    <p data-w-id="633bb2eb-e532-887f-f791-69e653c22a88" 
-                                    style=
-                                    "
-                                        font-size: 18px;
-                                        color: white;
-                                        font-weight: 500;
-                                        text-transform: uppercase;
-                                        letter-spacing: 1px;
-                                        text-align: center;
-                                    "
-                                    >
-                                        Figure Hoodie
-                                    </p>
-                                    <p data-w-id="633bb2eb-e532-887f-f791-69e653c22a88"
-                                    style=
-                                    "
-                                        font-size: 3vh;
-                                        color: white;
-                                        font-weight: 500;
-                                        text-transform: uppercase;
-                                        letter-spacing: 1px;
-                                        text-align: center;
-                                    ">
-                                    $65.00 USD
-                                    </p>
-                                    <p data-w-id="633bb2eb-e532-887f-f791-69e653c22a88"
-                                    style=
-                                    "
-                                        font-weight: 400;
-                                        font-size: 2vh;
-                                        margin-top: 1vh;
-                                        text-align: center;
-                                        color: white;
-                                    "
-                                    >
-                                    Printed on an Independent Fleece hoodie.
-                                    <br><br>
-                                    Size Chart
-                                    </p>
-                                    <br>
-                                </div>
+                                UNIFIED Music Group acknowledges the traditional custodians of the lands we work on and we pay our respect to elders past, present and emerging. We pride ourselves on being an equal opportunity employer, with a focus on ensuring that we are engaging with and supporting the local and international communities which are close to the heart of the UNIFIED Music Group Impact Committee.
                             </p>
                         </div>
                     </div>
@@ -1690,72 +555,16 @@
                             </iframe>
                         </div>
                     </div>
-                    <h2 class="heading-2">CONTACT</h2>
-                    
-                    <!-- <div class="fcf-body">
-
-                        <div id="fcf-form">
-                        <h3 class="fcf-h3">Contact us</h3>
-                    
-                        <form id="fcf-form-id" class="fcf-form-class" method="post" action="contact-form-process.php">
-                            
-                            <div class="fcf-form-group">
-                                <label for="Name" class="fcf-label">Your name</label>
-                                <div class="fcf-input-group">
-                                    <input type="text" id="Name" name="Name" class="fcf-form-control" required>
-                                </div>
-                            </div>
-                    
-                            <div class="fcf-form-group">
-                                <label for="Email" class="fcf-label">Your email address</label>
-                                <div class="fcf-input-group">
-                                    <input type="email" id="Email" name="Email" class="fcf-form-control" required>
-                                </div>
-                            </div>
-
-                            <div class="fcf-form-group">
-                                <label for="Email" class="fcf-label">Your Phone</label>
-                                <div class="fcf-input-group">
-                                    <input type="email" id="Email" name="number" class="fcf-form-control" required>
-                                </div>
-                            </div>
-                    
-                            <div class="fcf-form-group">
-                                <label for="Message" class="fcf-label">Your message</label>
-                                <div class="fcf-input-group">
-                                    <textarea id="Message" name="Message" class="fcf-form-control" rows="6" maxlength="3000" required></textarea>
-                                </div>
-                            </div>
-                    
-                            <div class="fcf-form-group">
-                                <button type="submit" id="fcf-button" class="fcf-btn fcf-btn-primary fcf-btn-lg fcf-btn-block">Send Message</button>
-                            </div>
-                    
-                        </form>
-                        </div>
-                    
-                    </div> -->
+                    <h2 class="heading-2">MERCHANDISE</h2>
                 </div>
                 <div class="container-large _2">
                     <p class="paragraph-2">
-                        MANAGEMENT
-                        <br>
-                        Oliver Mitchell & Nick Holman
-                        <br>
-                        polyphia@unifiedmusicgroup.com
+                        As a division of the UNIFIED Music Group, Super Special manufactures an end to end solution that accelerates and maximises the fan experience in the digital age, connecting fans with merchandise, and creating lasting memories through superior Design, Production, E-Commerce and Live Event solutions.
                         <br><br>
-                        US / WORLDWIDE BOOKING
-                        <br>
-                        Adam Sylvester
-                        <br>
-                        Adam.Sylvester@unitedtalent.com
+                        With a manufacturing facility located in Melbourne, Super Special have been creating retail ready apparel and merchandise products for over 15 years, with in-house design, product development, screen-printing, warehousing, customer support and order fulfilment services.
                     </p>
                     <p class="paragraph-2 _2">
-                        EU/UK BOOKING
-                        <br>
-                        Paul Ryan
-                        <br>
-                        Paul.Ryan@unitedtalent.com
+                        These capabilities, coupled with an extensive knowledge of tour management, digital marketing and e-commerce means that Super Special is uniquely positioned to provide the comprehensive support required to successfully connect with your audiences in every channel. Super Special is fully integrated with 24Hundred, an online retail platform launched in 2014, providing the alternative music community in Australia with a solution for marketing merchandise products directly to the consumer. A dedicated support team provides proven web marketing and product support, along with industry leading customer care, speedy shipping notifications and access to a proprietary reporting tool that helps our clients to manage the many variables to success in the online market.
                     </p>
                 </div>
             </div>
@@ -1765,21 +574,16 @@
                 </div>
                 <div data-w-id="dfc0b55d-02d6-b52d-0de3-9152124acee2" class="slider-work">
                     <div class="horizontal-content">
-                        <a href="https://www.polyphia.com/collections/all" target="_blank"
-                        class="ButtonProducts"
-                        
-                        >More Products</a>
                         <div class="content-workl">
-                            <div class="work-wrapper" id="Merch">
+                            <div class="work-wrapper">
                                 <div class="container-work">
                                     <div class="w-layout-grid work-grid">
                                         <div id="w-node-f202dd65-99b9-01f2-8208-c551ca17d40a-ca17d407" data-w-id="f202dd65-99b9-01f2-8208-c551ca17d40a" class="wrap-image-work">
                                             <div data-poster-url="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637deb9256cdc60500b52560_video (1) (video-convertercom)-poster-00001.jpg" data-video-urls="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637deb9256cdc60500b52560_video (1) (video-convertercom)-transcode.mp4,https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637deb9256cdc60500b52560_video (1) (video-convertercom)-transcode.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" class="background-video-project w-background-video w-background-video-atom">
-                                                <!-- <video id="f202dd65-99b9-01f2-8208-c551ca17d40b-video" autoplay="" loop="" style="background-image:url(&quot;https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637deb9256cdc60500b52560_video (1) (video-convertercom)-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
+                                                <video id="f202dd65-99b9-01f2-8208-c551ca17d40b-video" autoplay="" loop="" style="background-image:url(&quot;https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637deb9256cdc60500b52560_video (1) (video-convertercom)-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
                                                     <source src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637deb9256cdc60500b52560_video (1) (video-convertercom)-transcode.mp4" data-wf-ignore="true"/>
                                                     <source src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637deb9256cdc60500b52560_video (1) (video-convertercom)-transcode.webm" data-wf-ignore="true"/>
-                                                </video> -->
-                                                <img src="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/PhotoTee_3_540x.png?v=1668615439">
+                                                </video>
                                             </div>
                                         </div>
                                         <div id="w-node-f202dd65-99b9-01f2-8208-c551ca17d40c-ca17d407" data-w-id="f202dd65-99b9-01f2-8208-c551ca17d40c" class="column normal">
@@ -1799,7 +603,6 @@
                                                 </div>
                                             </a>
                                         </div>
-                                        <!-- <button>Helo</button> -->
                                     </div>
                                 </div>
                             </div>
@@ -1808,11 +611,10 @@
                                     <div class="w-layout-grid work-grid">
                                         <div id="w-node-_72c60ede-60ae-d123-bdb9-b2d2f02e281d-f02e281a" data-w-id="72c60ede-60ae-d123-bdb9-b2d2f02e281d" class="wrap-image-work">
                                             <div data-poster-url="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de83b982438378a448728_production ID_4916813 (1) (1) (1) (video-convertercom)-poster-00001.jpg" data-video-urls="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de83b982438378a448728_production ID_4916813 (1) (1) (1) (video-convertercom)-transcode.mp4,https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de83b982438378a448728_production ID_4916813 (1) (1) (1) (video-convertercom)-transcode.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" class="background-video-project w-background-video w-background-video-atom">
-                                                <!-- <video id="72c60ede-60ae-d123-bdb9-b2d2f02e281e-video" autoplay="" loop="" style="background-image:url(&quot;https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de83b982438378a448728_production ID_4916813 (1) (1) (1) (video-convertercom)-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
+                                                <video id="72c60ede-60ae-d123-bdb9-b2d2f02e281e-video" autoplay="" loop="" style="background-image:url(&quot;https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de83b982438378a448728_production ID_4916813 (1) (1) (1) (video-convertercom)-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
                                                     <source src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de83b982438378a448728_production ID_4916813 (1) (1) (1) (video-convertercom)-transcode.mp4" data-wf-ignore="true"/>
                                                     <source src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de83b982438378a448728_production ID_4916813 (1) (1) (1) (video-convertercom)-transcode.webm" data-wf-ignore="true"/>
-                                                </video> -->
-                                                <img src="https://cdn.shopify.com/s/files/1/0271/6018/2883/files/BloodTee_360x.png?v=1684508369">
+                                                </video>
                                             </div>
                                         </div>
                                         <div id="w-node-_72c60ede-60ae-d123-bdb9-b2d2f02e281f-f02e281a" data-w-id="72c60ede-60ae-d123-bdb9-b2d2f02e281f" class="column normal">
@@ -1840,11 +642,10 @@
                                     <div class="w-layout-grid work-grid">
                                         <div id="w-node-_2323ac8c-4bdf-66af-b4ea-3787179b7f0d-179b7f0a" data-w-id="2323ac8c-4bdf-66af-b4ea-3787179b7f0d" class="wrap-image-work">
                                             <div data-poster-url="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637decb3fcacb525bef314de_video (2) (video-convertercom)-poster-00001.jpg" data-video-urls="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637decb3fcacb525bef314de_video (2) (video-convertercom)-transcode.mp4,https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637decb3fcacb525bef314de_video (2) (video-convertercom)-transcode.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" class="background-video-project w-background-video w-background-video-atom">
-                                                <!-- <video id="2323ac8c-4bdf-66af-b4ea-3787179b7f0e-video" autoplay="" loop="" style="background-image:url(&quot;https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637decb3fcacb525bef314de_video (2) (video-convertercom)-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
+                                                <video id="2323ac8c-4bdf-66af-b4ea-3787179b7f0e-video" autoplay="" loop="" style="background-image:url(&quot;https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637decb3fcacb525bef314de_video (2) (video-convertercom)-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
                                                     <source src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637decb3fcacb525bef314de_video (2) (video-convertercom)-transcode.mp4" data-wf-ignore="true"/>
                                                     <source src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637decb3fcacb525bef314de_video (2) (video-convertercom)-transcode.webm" data-wf-ignore="true"/>
-                                                </video> -->
-                                                <img src="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/POLYPHIA-EGODEATH-MOCKUP_540x.png?v=1658158941">
+                                                </video>
                                             </div>
                                         </div>
                                         <div id="w-node-_2323ac8c-4bdf-66af-b4ea-3787179b7f0f-179b7f0a" data-w-id="2323ac8c-4bdf-66af-b4ea-3787179b7f0f" class="column normal">
@@ -1872,11 +673,10 @@
                                     <div class="w-layout-grid work-grid">
                                         <div id="w-node-b25caad2-c979-3c89-c08a-96476592b838-6592b835" data-w-id="b25caad2-c979-3c89-c08a-96476592b838" class="wrap-image-work">
                                             <div data-poster-url="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de7770c998d15bd7a4259_pexels-ron-lach-7278993_AdobeExpress (1) (video-convertercom)-poster-00001.jpg" data-video-urls="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de7770c998d15bd7a4259_pexels-ron-lach-7278993_AdobeExpress (1) (video-convertercom)-transcode.mp4,https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de7770c998d15bd7a4259_pexels-ron-lach-7278993_AdobeExpress (1) (video-convertercom)-transcode.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" class="background-video-project w-background-video w-background-video-atom">
-                                                <!-- <video id="b25caad2-c979-3c89-c08a-96476592b839-video" autoplay="" loop="" style="background-image:url(&quot;https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de7770c998d15bd7a4259_pexels-ron-lach-7278993_AdobeExpress (1) (video-convertercom)-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
+                                                <video id="b25caad2-c979-3c89-c08a-96476592b839-video" autoplay="" loop="" style="background-image:url(&quot;https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de7770c998d15bd7a4259_pexels-ron-lach-7278993_AdobeExpress (1) (video-convertercom)-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
                                                     <source src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de7770c998d15bd7a4259_pexels-ron-lach-7278993_AdobeExpress (1) (video-convertercom)-transcode.mp4" data-wf-ignore="true"/>
                                                     <source src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de7770c998d15bd7a4259_pexels-ron-lach-7278993_AdobeExpress (1) (video-convertercom)-transcode.webm" data-wf-ignore="true"/>
-                                                </video> -->
-                                                <img src="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/Tote_1_540x.png?v=1668616145">
+                                                </video>
                                             </div>
                                         </div>
                                         <div id="w-node-b25caad2-c979-3c89-c08a-96476592b83a-6592b835" data-w-id="b25caad2-c979-3c89-c08a-96476592b83a" class="column normal">
@@ -1937,11 +737,10 @@
                     </div>
                     <div class="content-modal-work">
                         <div data-poster-url="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637deb9256cdc60500b52560_video (1) (video-convertercom)-poster-00001.jpg" data-video-urls="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637deb9256cdc60500b52560_video (1) (video-convertercom)-transcode.mp4,https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637deb9256cdc60500b52560_video (1) (video-convertercom)-transcode.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" data-w-id="d2aa6c9b-7483-697c-6740-2aa64d991897" class="background-video-project w-background-video w-background-video-atom">
-                            <!-- <video id="d2aa6c9b-7483-697c-6740-2aa64d991897-video" autoplay="" loop="" style="background-image:url(&quot;https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637deb9256cdc60500b52560_video (1) (video-convertercom)-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
+                            <video id="d2aa6c9b-7483-697c-6740-2aa64d991897-video" autoplay="" loop="" style="background-image:url(&quot;https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637deb9256cdc60500b52560_video (1) (video-convertercom)-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
                                 <source src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637deb9256cdc60500b52560_video (1) (video-convertercom)-transcode.mp4" data-wf-ignore="true"/>
                                 <source src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637deb9256cdc60500b52560_video (1) (video-convertercom)-transcode.webm" data-wf-ignore="true"/>
-                            </video> -->
-                            <img src="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/PhotoTee_3_540x.png?v=1668615439">
+                            </video>
                         </div>
                         <div data-w-id="3b711462-de4c-68c2-7eab-ed3ec3a62b4f" class="container-large display-flex vertical">
                             <div class="container-large display-flex vertical no-bg">
@@ -1950,38 +749,38 @@
                                     <div class="line-close-button text-style-2lines"></div>
                                 </div>
                                 <div class="row project">
-                                    <h2 data-w-id="311403f0-9f9d-550d-72b5-5a1685da00cb" class="work-card-heading text-color-white margin-vertical margin-custom project">RTYWD Photo Tee</h2>
-                                    <p data-w-id="bf5da26b-03f9-7222-5ead-5502856bb731" class="main-paragraph max-width white">Printed on Los Angeles Apparel garment dyed, 100% USA Cotton.</p>
-                                    <p data-w-id="c907c026-8a17-0871-44c7-e5991618b371" class="main-paragraph max-width white">Size Chart</p>
+                                    <h2 data-w-id="311403f0-9f9d-550d-72b5-5a1685da00cb" class="work-card-heading text-color-white margin-vertical margin-custom project">Jvc set</h2>
+                                    <p data-w-id="bf5da26b-03f9-7222-5ead-5502856bb731" class="main-paragraph max-width white">Morbi eu mollis neque. Proin tristique metus pharetra diam pharetra posuere. In non nibh a ex aliquam tristique nec sed neque. Suspendisse metus mauris, aliquet quis lacinia sit amet, blandit et diam. Vivamus egestas leo eu turpis viverra facilisis et sed sapien.<br/>Ultrices accumsan est eu euismod. Maecenas cursus mi sem, quis dignissim erat congue ut.  </p>
+                                    <p data-w-id="c907c026-8a17-0871-44c7-e5991618b371" class="main-paragraph max-width white">Vivamus egestas leo eu turpis viverra facilisis et sed sapien. Nullam vehicula arcu eu lorem placerat posuere. Pellentesque ultrices accumsan est eu euismod. Maecenas cursus mi sem, quis dignissim erat congue ut. </p>
                                 </div>
                                 <div data-w-id="47f4dbaa-1913-cb2e-6a67-f003d0bda55d" class="column margin-top">
                                     <div class="div-block-4">
                                         <div class="w-layout-grid grid-project">
                                             <div id="w-node-ab6bede6-2d18-3e6f-e2fe-a64c72e900a2-ca2cdd83" class="content-text">
-                                                <div class="text-block">Type</div>
+                                                <div class="text-block">Client</div>
                                             </div>
                                             <div id="w-node-e42ea051-463e-c9ca-5ad0-324b105aeb34-ca2cdd83" class="content-text">
-                                                <div class="text-block">T-shirt</div>
+                                                <div class="text-block">Jvc set</div>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="div-block-4">
                                         <div class="w-layout-grid grid-project">
                                             <div id="w-node-a7e36af7-ecb6-549b-d51d-ee503ac6b632-ca2cdd83" class="content-text">
-                                                <div class="text-block">Size</div>
+                                                <div class="text-block">Field</div>
                                             </div>
                                             <div id="w-node-a7e36af7-ecb6-549b-d51d-ee503ac6b635-ca2cdd83" class="content-text">
-                                                <div class="text-block">S, M, L, XL, 2XL</div>
+                                                <div class="text-block">Videomaking</div>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="div-block-4">
                                         <div class="w-layout-grid grid-project">
                                             <div id="w-node-_4d2cfb0b-5d32-e559-cb29-7c4aa76fcf53-ca2cdd83" class="content-text">
-                                                <div class="text-block">Price</div>
+                                                <div class="text-block">Relase Date</div>
                                             </div>
                                             <div id="w-node-_4d2cfb0b-5d32-e559-cb29-7c4aa76fcf56-ca2cdd83" class="content-text">
-                                                <div class="text-block">$30.00 USD</div>
+                                                <div class="text-block">2022</div>
                                             </div>
                                         </div>
                                     </div>
@@ -2025,11 +824,10 @@
                     </div>
                     <div class="content-modal-work">
                         <div data-poster-url="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de83b982438378a448728_production ID_4916813 (1) (1) (1) (video-convertercom)-poster-00001.jpg" data-video-urls="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de83b982438378a448728_production ID_4916813 (1) (1) (1) (video-convertercom)-transcode.mp4,https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de83b982438378a448728_production ID_4916813 (1) (1) (1) (video-convertercom)-transcode.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" data-w-id="9d0a30cd-07df-ebab-59ce-52a597f9e21f" class="background-video-project w-background-video w-background-video-atom">
-                            <!-- <video id="9d0a30cd-07df-ebab-59ce-52a597f9e21f-video" autoplay="" loop="" style="background-image:url(&quot;https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de83b982438378a448728_production ID_4916813 (1) (1) (1) (video-convertercom)-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
+                            <video id="9d0a30cd-07df-ebab-59ce-52a597f9e21f-video" autoplay="" loop="" style="background-image:url(&quot;https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de83b982438378a448728_production ID_4916813 (1) (1) (1) (video-convertercom)-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
                                 <source src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de83b982438378a448728_production ID_4916813 (1) (1) (1) (video-convertercom)-transcode.mp4" data-wf-ignore="true"/>
                                 <source src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de83b982438378a448728_production ID_4916813 (1) (1) (1) (video-convertercom)-transcode.webm" data-wf-ignore="true"/>
-                            </video> -->
-                            <img src="https://cdn.shopify.com/s/files/1/0271/6018/2883/files/BloodTee_360x.png?v=1684508369">
+                            </video>
                         </div>
                         <div data-w-id="b03b9411-cbed-8ffe-47df-aa3aca490479" class="container-large display-flex vertical">
                             <div class="container-large display-flex vertical no-bg">
@@ -2038,38 +836,38 @@
                                     <div class="line-close-button text-style-2lines"></div>
                                 </div>
                                 <div class="row project">
-                                    <h2 data-w-id="b03b9411-cbed-8ffe-47df-aa3aca49047a" class="work-card-heading text-color-white margin-vertical margin-custom project">Bloodbath Tee</h2>
-                                    <p data-w-id="b03b9411-cbed-8ffe-47df-aa3aca49047c" class="main-paragraph max-width white">Printed on Los Angeles Apparel garment dyed, 100% USA Cotton</p>
-                                    <p data-w-id="cedb97ab-9449-4dc4-0bed-d8e603091dd6" class="main-paragraph max-width white">Size Chart</p>
+                                    <h2 data-w-id="b03b9411-cbed-8ffe-47df-aa3aca49047a" class="work-card-heading text-color-white margin-vertical margin-custom project">City lights</h2>
+                                    <p data-w-id="b03b9411-cbed-8ffe-47df-aa3aca49047c" class="main-paragraph max-width white">Suspendisse metus mauris, aliquet quis lacinia sit amet, blandit et diam. Vivamus egestas leo eu turpis viverra facilisis et sed sapien. Nullam vehicula arcu eu lorem placerat posuere. Pellentesque ultrices accumsan est eu euismod. Maecenas cursus mi sem, quis dignissim erat congue ut. </p>
+                                    <p data-w-id="cedb97ab-9449-4dc4-0bed-d8e603091dd6" class="main-paragraph max-width white">Vivamus egestas leo eu turpis viverra facilisis et sed sapien. Nullam vehicula arcu eu lorem placerat posuere. Pellentesque ultrices accumsan est eu euismod. Maecenas cursus mi sem, quis dignissim erat congue ut. </p>
                                 </div>
                                 <div data-w-id="409f7804-ad39-8945-3068-3e012f87f27f" class="column margin-top">
                                     <div class="div-block-4">
                                         <div class="w-layout-grid grid-project">
                                             <div id="w-node-_409f7804-ad39-8945-3068-3e012f87f282-ca2cdd83" class="content-text">
-                                                <div class="text-block">Type</div>
+                                                <div class="text-block">Client</div>
                                             </div>
                                             <div id="w-node-_409f7804-ad39-8945-3068-3e012f87f285-ca2cdd83" class="content-text">
-                                                <div class="text-block">T-Shirt</div>
+                                                <div class="text-block">City lights</div>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="div-block-4">
                                         <div class="w-layout-grid grid-project">
                                             <div id="w-node-_409f7804-ad39-8945-3068-3e012f87f28a-ca2cdd83" class="content-text">
-                                                <div class="text-block">Size</div>
+                                                <div class="text-block">Field</div>
                                             </div>
                                             <div id="w-node-_409f7804-ad39-8945-3068-3e012f87f28d-ca2cdd83" class="content-text">
-                                                <div class="text-block">S, M, L, XL, 2XL</div>
+                                                <div class="text-block">Videomaking</div>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="div-block-4">
                                         <div class="w-layout-grid grid-project">
                                             <div id="w-node-_409f7804-ad39-8945-3068-3e012f87f292-ca2cdd83" class="content-text">
-                                                <div class="text-block">Price</div>
+                                                <div class="text-block">Relase Date</div>
                                             </div>
                                             <div id="w-node-_409f7804-ad39-8945-3068-3e012f87f295-ca2cdd83" class="content-text">
-                                                <div class="text-block">$40.00 USD</div>
+                                                <div class="text-block">2022</div>
                                             </div>
                                         </div>
                                     </div>
@@ -2113,11 +911,10 @@
                     </div>
                     <div class="content-modal-work">
                         <div data-poster-url="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637decb3fcacb525bef314de_video (2) (video-convertercom)-poster-00001.jpg" data-video-urls="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637decb3fcacb525bef314de_video (2) (video-convertercom)-transcode.mp4,https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637decb3fcacb525bef314de_video (2) (video-convertercom)-transcode.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" data-w-id="c15827e3-d702-b953-90b8-040192b9def1" class="background-video-project w-background-video w-background-video-atom">
-                            <!-- <video id="c15827e3-d702-b953-90b8-040192b9def1-video" autoplay="" loop="" style="background-image:url(&quot;https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637decb3fcacb525bef314de_video (2) (video-convertercom)-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
+                            <video id="c15827e3-d702-b953-90b8-040192b9def1-video" autoplay="" loop="" style="background-image:url(&quot;https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637decb3fcacb525bef314de_video (2) (video-convertercom)-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
                                 <source src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637decb3fcacb525bef314de_video (2) (video-convertercom)-transcode.mp4" data-wf-ignore="true"/>
                                 <source src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637decb3fcacb525bef314de_video (2) (video-convertercom)-transcode.webm" data-wf-ignore="true"/>
-                            </video> -->
-                            <img src="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/POLYPHIA-EGODEATH-MOCKUP_540x.png?v=1658158941">
+                            </video>
                         </div>
                         <div data-w-id="5962fe72-cdf0-46a3-18f3-76223c9ad44d" class="container-large display-flex vertical">
                             <div class="container-large display-flex vertical no-bg">
@@ -2126,38 +923,38 @@
                                     <div class="line-close-button text-style-2lines"></div>
                                 </div>
                                 <div class="row project">
-                                    <h2 data-w-id="5962fe72-cdf0-46a3-18f3-76223c9ad44e" class="work-card-heading text-color-white margin-vertical margin-custom project">Figure Hoodie</h2>
-                                    <p data-w-id="5962fe72-cdf0-46a3-18f3-76223c9ad450" class="main-paragraph max-width white">Printed on an Independent Fleece hoodie.</p>
-                                    <p data-w-id="b9298b58-3e76-4919-520a-949ba0ef5f6a" class="main-paragraph max-width white">Size Chart</p>
+                                    <h2 data-w-id="5962fe72-cdf0-46a3-18f3-76223c9ad44e" class="work-card-heading text-color-white margin-vertical margin-custom project">Street life</h2>
+                                    <p data-w-id="5962fe72-cdf0-46a3-18f3-76223c9ad450" class="main-paragraph max-width white">Morbi eu mollis neque. Proin tristique metus pharetra diam pharetra posuere. In non nibh a ex aliquam tristique nec sed neque. Suspendisse metus mauris, aliquet quis lacinia sit amet, blandit et diam. Vivamus egestas leo eu turpis viverra facilisis et sed sapien. Nullam vehicula arcu eu lorem placerat posuere. Pellentesque ultrices accumsan est eu euismod. Maecenas cursus mi sem, quis dignissim erat congue ut. </p>
+                                    <p data-w-id="b9298b58-3e76-4919-520a-949ba0ef5f6a" class="main-paragraph max-width white">Vivamus egestas leo eu turpis viverra facilisis et sed sapien. Nullam vehicula arcu eu lorem placerat posuere. Pellentesque ultrices accumsan est eu euismod. Maecenas cursus mi sem, quis dignissim erat congue ut. </p>
                                 </div>
                                 <div data-w-id="3993c7b9-35c8-497a-689e-c957eebdde13" class="column margin-top">
                                     <div class="div-block-4">
                                         <div class="w-layout-grid grid-project">
                                             <div id="w-node-_3993c7b9-35c8-497a-689e-c957eebdde16-ca2cdd83" class="content-text">
-                                                <div class="text-block">Type</div>
+                                                <div class="text-block">Client</div>
                                             </div>
                                             <div id="w-node-_3993c7b9-35c8-497a-689e-c957eebdde19-ca2cdd83" class="content-text">
-                                                <div class="text-block">Outerwear</div>
+                                                <div class="text-block">Jvc set</div>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="div-block-4">
                                         <div class="w-layout-grid grid-project">
                                             <div id="w-node-_3993c7b9-35c8-497a-689e-c957eebdde1e-ca2cdd83" class="content-text">
-                                                <div class="text-block">Size</div>
+                                                <div class="text-block">Field</div>
                                             </div>
                                             <div id="w-node-_3993c7b9-35c8-497a-689e-c957eebdde21-ca2cdd83" class="content-text">
-                                                <div class="text-block">S, M, L, XL, 2XL</div>
+                                                <div class="text-block">Videomaking</div>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="div-block-4">
                                         <div class="w-layout-grid grid-project">
                                             <div id="w-node-_3993c7b9-35c8-497a-689e-c957eebdde26-ca2cdd83" class="content-text">
-                                                <div class="text-block">Price</div>
+                                                <div class="text-block">Relase Date</div>
                                             </div>
                                             <div id="w-node-_3993c7b9-35c8-497a-689e-c957eebdde29-ca2cdd83" class="content-text">
-                                                <div class="text-block">$65.00 USD</div>
+                                                <div class="text-block">2022</div>
                                             </div>
                                         </div>
                                     </div>
@@ -2201,11 +998,10 @@
                     </div>
                     <div class="content-modal-work">
                         <div data-poster-url="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de7770c998d15bd7a4259_pexels-ron-lach-7278993_AdobeExpress (1) (video-convertercom)-poster-00001.jpg" data-video-urls="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de7770c998d15bd7a4259_pexels-ron-lach-7278993_AdobeExpress (1) (video-convertercom)-transcode.mp4,https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de7770c998d15bd7a4259_pexels-ron-lach-7278993_AdobeExpress (1) (video-convertercom)-transcode.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" data-w-id="66726ed4-e25f-cc22-23ba-a9e6a5e2875e" class="background-video-project w-background-video w-background-video-atom">
-                            <!-- <video id="66726ed4-e25f-cc22-23ba-a9e6a5e2875e-video" autoplay="" loop="" style="background-image:url(&quot;https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de7770c998d15bd7a4259_pexels-ron-lach-7278993_AdobeExpress (1) (video-convertercom)-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
+                            <video id="66726ed4-e25f-cc22-23ba-a9e6a5e2875e-video" autoplay="" loop="" style="background-image:url(&quot;https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de7770c998d15bd7a4259_pexels-ron-lach-7278993_AdobeExpress (1) (video-convertercom)-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
                                 <source src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de7770c998d15bd7a4259_pexels-ron-lach-7278993_AdobeExpress (1) (video-convertercom)-transcode.mp4" data-wf-ignore="true"/>
                                 <source src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637de7770c998d15bd7a4259_pexels-ron-lach-7278993_AdobeExpress (1) (video-convertercom)-transcode.webm" data-wf-ignore="true"/>
-                            </video> -->
-                            <img src="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/Tote_1_540x.png?v=1668616145">
+                            </video>
                         </div>
                         <div data-w-id="7210590c-3fba-9e6d-9a55-70222a75222a" class="container-large display-flex vertical second">
                             <div class="container-large display-flex vertical no-bg">
@@ -2214,38 +1010,38 @@
                                     <div class="line-close-button text-style-2lines"></div>
                                 </div>
                                 <div class="row project">
-                                    <h2 data-w-id="7210590c-3fba-9e6d-9a55-70222a75222b" class="work-card-heading text-color-white margin-vertical margin-custom project">Worldwide Tote<a href="https://video-template-124c4b.webflow.io/#"><br/></a></h2>
-                                    <p data-w-id="7210590c-3fba-9e6d-9a55-70222a75222d" class="main-paragraph max-width white">Printed on a 100% cotton canvas tote bag.</p>
-                                    <p data-w-id="c6355f8a-ad11-2b0b-86f4-c516d32e6777" class="main-paragraph max-width white"></p>
+                                    <h2 data-w-id="7210590c-3fba-9e6d-9a55-70222a75222b" class="work-card-heading text-color-white margin-vertical margin-custom project">Wedding<a href="https://video-template-124c4b.webflow.io/#"><br/></a></h2>
+                                    <p data-w-id="7210590c-3fba-9e6d-9a55-70222a75222d" class="main-paragraph max-width white">Morbi eu mollis neque. Proin tristique metus pharetra diam pharetra posuere. In non nibh a ex aliquam tristique nec sed neque. Suspendisse metus mauris, aliquet quis lacinia sit amet, blandit et diam. Vivamus egestas leo eu turpis viverra facilisis et sed sapien. Nullam vehicula arcu eu lorem placerat posuere. Pellentesque ultrices accumsan est eu euismod. Maecenas cursus mi sem, quis dignissim erat congue ut. </p>
+                                    <p data-w-id="c6355f8a-ad11-2b0b-86f4-c516d32e6777" class="main-paragraph max-width white">Vivamus egestas leo eu turpis viverra facilisis et sed sapien. Nullam vehicula arcu eu lorem placerat posuere. Pellentesque ultrices accumsan est eu euismod. Maecenas cursus mi sem, quis dignissim erat congue ut. </p>
                                 </div>
                                 <div data-w-id="c04106a2-784c-0085-5baa-368a481d664f" class="column margin-top">
                                     <div class="div-block-4">
                                         <div class="w-layout-grid grid-project">
                                             <div id="w-node-c04106a2-784c-0085-5baa-368a481d6652-ca2cdd83" class="content-text">
-                                                <div class="text-block">Type</div>
+                                                <div class="text-block">Client</div>
                                             </div>
                                             <div id="w-node-c04106a2-784c-0085-5baa-368a481d6655-ca2cdd83" class="content-text">
-                                                <div class="text-block">Accessories</div>
+                                                <div class="text-block">Jvc set</div>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="div-block-4">
                                         <div class="w-layout-grid grid-project">
                                             <div id="w-node-c04106a2-784c-0085-5baa-368a481d665a-ca2cdd83" class="content-text">
-                                                <div class="text-block">Type Accesorie</div>
+                                                <div class="text-block">Field</div>
                                             </div>
                                             <div id="w-node-c04106a2-784c-0085-5baa-368a481d665d-ca2cdd83" class="content-text">
-                                                <div class="text-block">Bag</div>
+                                                <div class="text-block">Videomaking</div>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="div-block-4">
                                         <div class="w-layout-grid grid-project">
                                             <div id="w-node-c04106a2-784c-0085-5baa-368a481d6662-ca2cdd83" class="content-text">
-                                                <div class="text-block">Price</div>
+                                                <div class="text-block">Relase Date</div>
                                             </div>
                                             <div id="w-node-c04106a2-784c-0085-5baa-368a481d6665-ca2cdd83" class="content-text">
-                                                <div class="text-block">$20.00 USD</div>
+                                                <div class="text-block">2022</div>
                                             </div>
                                         </div>
                                     </div>
@@ -2255,7 +1051,7 @@
                     </div>
                 </div>
             </div>
-            <!-- <div id="Investment" class="our-client wf-section">
+            <div id="Investment" class="our-client wf-section">
                 <div id="Clients" class="clients">
                     <h2 class="main-heading">Investment</h2>
                     <p class="paragraph">UNIFIED invests in forward thinking companies that we believe are making the world a better place. The following companies represent businesses that UNIFIED is proud to support.</p>
@@ -2315,10 +1111,10 @@
                     <div data-w-id="191ea2a1-c6c7-8dee-c0cb-5ede360f50ce" class="container-image-client-absolute">
                         <img src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321c93a0dc0fb4932e2dbcb_pexels-ron-lach-8089652.jpg" loading="lazy" sizes="(max-width: 479px) 0px, (max-width: 991px) 100vw, 300px" srcset="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321c93a0dc0fb4932e2dbcb_pexels-ron-lach-8089652-p-500.jpg 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321c93a0dc0fb4932e2dbcb_pexels-ron-lach-8089652-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321c93a0dc0fb4932e2dbcb_pexels-ron-lach-8089652-p-1080.jpg 1080w" alt="" class="client-image"/>
                     </div>
-                    <div data-w-id="191ea2a1-c6c7-8dee-c0cb-5ede360f50d0" class="container-image-client-absolute"><img src="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/POLYPHIA-EGODEATH-MOCKUP_540x.png?v=1658158941" loading="lazy" sizes="(max-width: 479px) 0px, (max-width: 991px) 100vw, 300px" srcset="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-500.jpg 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-1080.jpg 1080w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-1600.jpg 1600w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-2000.jpg 2000w" alt="" class="client-image _2"/></div>
+                    <div data-w-id="191ea2a1-c6c7-8dee-c0cb-5ede360f50d0" class="container-image-client-absolute"><img src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1).jpg" loading="lazy" sizes="(max-width: 479px) 0px, (max-width: 991px) 100vw, 300px" srcset="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-500.jpg 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-1080.jpg 1080w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-1600.jpg 1600w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-2000.jpg 2000w" alt="" class="client-image _2"/></div>
                     <div data-w-id="191ea2a1-c6c7-8dee-c0cb-5ede360f50d2" class="container-image-client-absolute"><img src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321c93a5eab742e94c5ce75_pexels-ron-lach-8089655.jpg" loading="lazy" sizes="(max-width: 479px) 0px, (max-width: 991px) 100vw, 300px" srcset="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321c93a5eab742e94c5ce75_pexels-ron-lach-8089655-p-500.jpg 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321c93a5eab742e94c5ce75_pexels-ron-lach-8089655-p-800.jpg 800w" alt="" class="client-image"/></div>
                 </div>
-            </div> -->
+            </div>
             <div id="Contact" data-w-id="4b75dd09-915d-6f9c-ab36-c89b7b3b13b1" class="contact-section wf-section">
                 <div class="loop-text-wrapper">
                     <div class="div-block-2">
@@ -2338,11 +1134,11 @@
                         <img src="https://t2.genius.com/unsafe/237x237/https%3A%2F%2Fimages.genius.com%2F167055a1ad0539254945b355087a259b.1000x1000x1.png" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 767px) 32vw, (max-width: 991px) 20vw, (max-width: 1439px) 155.33279418945312px, 11vw" srcset="https://t2.genius.com/unsafe/237x237/https%3A%2F%2Fimages.genius.com%2F167055a1ad0539254945b355087a259b.1000x1000x1.png 500w, https://t2.genius.com/unsafe/237x237/https%3A%2F%2Fimages.genius.com%2F167055a1ad0539254945b355087a259b.1000x1000x1.png 667w" alt="" class="image-4"/>
                         <img src="https://t2.genius.com/unsafe/227x227/https%3A%2F%2Fimages.genius.com%2F8c86adfbe4940cf0c9595483090c5b49.1000x1000x1.png" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 991px) 155.33279418945312px, (max-width: 1439px) 16vw, 11vw" srcset="https://t2.genius.com/unsafe/227x227/https%3A%2F%2Fimages.genius.com%2F8c86adfbe4940cf0c9595483090c5b49.1000x1000x1.png 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377662865ea181433b6e3af_22-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377662865ea181433b6e3af_22-p-1080.jpg 1080w, https://t2.genius.com/unsafe/227x227/https%3A%2F%2Fimages.genius.com%2F8c86adfbe4940cf0c9595483090c5b49.1000x1000x1.png 1500w" alt="" class="image-4"/>
                         <img src="https://t2.genius.com/unsafe/243x243/https%3A%2F%2Fimages.genius.com%2F57cd54e933d6d2fbb610a004acf74473.1000x1000x1.png" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 767px) 32vw, (max-width: 991px) 20vw, (max-width: 1439px) 155.33279418945312px, 11vw" srcset="https://t2.genius.com/unsafe/243x243/https%3A%2F%2Fimages.genius.com%2F57cd54e933d6d2fbb610a004acf74473.1000x1000x1.png 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6356961646a8fc15c16c289e_project-p-1080.jpeg 1080w, https://t2.genius.com/unsafe/243x243/https%3A%2F%2Fimages.genius.com%2F57cd54e933d6d2fbb610a004acf74473.1000x1000x1.png 1500w" alt="" class="image-4"/>
-                        <img src="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/CALENDARCOVER_540x.jpg?v=1669383250" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 767px) 32vw, (max-width: 991px) 20vw, (max-width: 1439px) 155.332763671875px, 11vw" srcset="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/CALENDARCOVER_540x.jpg?v=1669383250 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377664d1d771ade18b7169f_15-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377664d1d771ade18b7169f_15-p-1080.jpg 1080w, https://cdn.shopify.com/s/files/1/0271/6018/2883/products/CALENDARCOVER_540x.jpg?v=1669383250 1500w" alt="" class="image-4"/>
-                        <img src="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/POLYPHIA-EGODEATH-MOCKUP_540x.png?v=1658158941" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 767px) 32vw, (max-width: 991px) 20vw, (max-width: 1439px) 16vw, 11vw" srcset="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/POLYPHIA-EGODEATH-MOCKUP_540x.png?v=1658158941 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-1080.jpg 1080w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-1600.jpg 1600w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-2000.jpg 2000w" alt="" class="image-4"/>
-                        <img src="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/Tote_1_540x.png?v=1668616145" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 767px) 32vw, (max-width: 991px) 20vw, (max-width: 1439px) 16vw, 11vw" srcset="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/Tote_1_540x.png?v=1668616145 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377665d2c8a5c2f5317a1a8_29-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377665d2c8a5c2f5317a1a8_29-p-1080.jpg 1080w, https://cdn.shopify.com/s/files/1/0271/6018/2883/products/Tote_1_540x.png?v=1668616145 1500w" alt="" class="image-4"/>
-                        <img src="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/P-Socks_540x.png?v=1668616491" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 767px) 155.332763671875px, (max-width: 991px) 20vw, (max-width: 1439px) 16vw, 11vw" srcset="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/P-Socks_540x.png?v=1668616491 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377666d2e01c51b225ab83d_9-p-800.jpg 800w, https://cdn.shopify.com/s/files/1/0271/6018/2883/products/P-Socks_540x.png?v=1668616491 1000w" alt="" class="image-4"/>
-                        <img src="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/CD-DISCFACE_dca5b7a9-3100-4539-b2d4-6d7b6dceebf5_540x.png?v=1662044404" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 767px) 32vw, (max-width: 991px) 20vw, (max-width: 1439px) 16vw, 11vw" srcset="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/CD-DISCFACE_dca5b7a9-3100-4539-b2d4-6d7b6dceebf5_540x.png?v=1662044404 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377667d4f7c0097e2f85a4d_19-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377667d4f7c0097e2f85a4d_19-p-1080.jpg 1080w, https://cdn.shopify.com/s/files/1/0271/6018/2883/products/CD-DISCFACE_dca5b7a9-3100-4539-b2d4-6d7b6dceebf5_540x.png?v=1662044404 1500w" alt="" class="image-4"/>
+                        <img src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1).jpg" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 767px) 32vw, (max-width: 991px) 20vw, (max-width: 1439px) 16vw, 11vw" srcset="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-500.jpg 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-1080.jpg 1080w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-1600.jpg 1600w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-2000.jpg 2000w" alt="" class="image-4"/>
+                        <img src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377664d1d771ade18b7169f_15.jpg" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 767px) 32vw, (max-width: 991px) 20vw, (max-width: 1439px) 155.332763671875px, 11vw" srcset="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377664d1d771ade18b7169f_15-p-500.jpg 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377664d1d771ade18b7169f_15-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377664d1d771ade18b7169f_15-p-1080.jpg 1080w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377664d1d771ade18b7169f_15.jpg 1500w" alt="" class="image-4"/>
+                        <img src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377665d2c8a5c2f5317a1a8_29.jpg" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 767px) 32vw, (max-width: 991px) 20vw, (max-width: 1439px) 16vw, 11vw" srcset="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377665d2c8a5c2f5317a1a8_29-p-500.jpg 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377665d2c8a5c2f5317a1a8_29-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377665d2c8a5c2f5317a1a8_29-p-1080.jpg 1080w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377665d2c8a5c2f5317a1a8_29.jpg 1500w" alt="" class="image-4"/>
+                        <img src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377666d2e01c51b225ab83d_9.jpg" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 767px) 155.332763671875px, (max-width: 991px) 20vw, (max-width: 1439px) 16vw, 11vw" srcset="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377666d2e01c51b225ab83d_9-p-500.jpg 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377666d2e01c51b225ab83d_9-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377666d2e01c51b225ab83d_9.jpg 1000w" alt="" class="image-4"/>
+                        <img src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377667d4f7c0097e2f85a4d_19.jpg" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 767px) 32vw, (max-width: 991px) 20vw, (max-width: 1439px) 16vw, 11vw" srcset="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377667d4f7c0097e2f85a4d_19-p-500.jpg 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377667d4f7c0097e2f85a4d_19-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377667d4f7c0097e2f85a4d_19-p-1080.jpg 1080w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377667d4f7c0097e2f85a4d_19.jpg 1500w" alt="" class="image-4"/>
                         <img src="https://t2.genius.com/unsafe/224x224/https%3A%2F%2Fimages.genius.com%2F34a10721c3085ac27ce4b6e0b77ee490.999x999x1.png" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 767px) 32vw, (max-width: 991px) 20vw, (max-width: 1439px) 155.332763671875px, 11vw" srcset="https://t2.genius.com/unsafe/224x224/https%3A%2F%2Fimages.genius.com%2F34a10721c3085ac27ce4b6e0b77ee490.999x999x1.png 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637766102c8a5c594c179f8d_23-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637766102c8a5c594c179f8d_23-p-1080.jpg 1080w, https://t2.genius.com/unsafe/224x224/https%3A%2F%2Fimages.genius.com%2F34a10721c3085ac27ce4b6e0b77ee490.999x999x1.png 1500w" alt="" class="image-4"/>
                         <img src="https://t2.genius.com/unsafe/237x237/https%3A%2F%2Fimages.genius.com%2F167055a1ad0539254945b355087a259b.1000x1000x1.png" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 767px) 32vw, (max-width: 991px) 155.332763671875px, (max-width: 1439px) 16vw, 11vw" srcset="https://t2.genius.com/unsafe/237x237/https%3A%2F%2Fimages.genius.com%2F167055a1ad0539254945b355087a259b.1000x1000x1.png 500w, https://t2.genius.com/unsafe/237x237/https%3A%2F%2Fimages.genius.com%2F167055a1ad0539254945b355087a259b.1000x1000x1.png 667w" alt="" class="image-4"/>
                         <img src="https://t2.genius.com/unsafe/227x227/https%3A%2F%2Fimages.genius.com%2F8c86adfbe4940cf0c9595483090c5b49.1000x1000x1.png" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 767px) 32vw, (max-width: 991px) 155.332763671875px, (max-width: 1439px) 16vw, 11vw" srcset="https://t2.genius.com/unsafe/227x227/https%3A%2F%2Fimages.genius.com%2F8c86adfbe4940cf0c9595483090c5b49.1000x1000x1.png 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377662865ea181433b6e3af_22-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377662865ea181433b6e3af_22-p-1080.jpg 1080w, https://t2.genius.com/unsafe/227x227/https%3A%2F%2Fimages.genius.com%2F8c86adfbe4940cf0c9595483090c5b49.1000x1000x1.png 1500w" alt="" class="image-4"/>
@@ -2353,11 +1149,11 @@
                         <img src="https://t2.genius.com/unsafe/237x237/https%3A%2F%2Fimages.genius.com%2F167055a1ad0539254945b355087a259b.1000x1000x1.png" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 991px) 155.332763671875px, (max-width: 1439px) 16vw, 155.332763671875px" srcset="https://t2.genius.com/unsafe/237x237/https%3A%2F%2Fimages.genius.com%2F167055a1ad0539254945b355087a259b.1000x1000x1.png 500w, https://t2.genius.com/unsafe/237x237/https%3A%2F%2Fimages.genius.com%2F167055a1ad0539254945b355087a259b.1000x1000x1.png 667w" alt="" class="image-4"/>
                         <img src="https://t2.genius.com/unsafe/227x227/https%3A%2F%2Fimages.genius.com%2F8c86adfbe4940cf0c9595483090c5b49.1000x1000x1.png" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 767px) 32vw, (max-width: 991px) 20vw, (max-width: 1439px) 155.332763671875px, 11vw" srcset="https://t2.genius.com/unsafe/227x227/https%3A%2F%2Fimages.genius.com%2F8c86adfbe4940cf0c9595483090c5b49.1000x1000x1.png 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377662865ea181433b6e3af_22-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377662865ea181433b6e3af_22-p-1080.jpg 1080w, https://t2.genius.com/unsafe/227x227/https%3A%2F%2Fimages.genius.com%2F8c86adfbe4940cf0c9595483090c5b49.1000x1000x1.png 1500w" alt="" class="image-4"/>
                         <img src="https://t2.genius.com/unsafe/243x243/https%3A%2F%2Fimages.genius.com%2F57cd54e933d6d2fbb610a004acf74473.1000x1000x1.png" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 767px) 32vw, (max-width: 1439px) 155.332763671875px, 11vw" srcset="https://t2.genius.com/unsafe/243x243/https%3A%2F%2Fimages.genius.com%2F57cd54e933d6d2fbb610a004acf74473.1000x1000x1.png 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6356961646a8fc15c16c289e_project-p-1080.jpeg 1080w, https://t2.genius.com/unsafe/243x243/https%3A%2F%2Fimages.genius.com%2F57cd54e933d6d2fbb610a004acf74473.1000x1000x1.png 1500w" alt="" class="image-4"/>
-                        <img src="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/CALENDARCOVER_540x.jpg?v=1669383250" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 767px) 32vw, (max-width: 991px) 20vw, (max-width: 1439px) 155.332763671875px, 11vw" srcset="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/CALENDARCOVER_540x.jpg?v=1669383250 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377664d1d771ade18b7169f_15-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377664d1d771ade18b7169f_15-p-1080.jpg 1080w, https://cdn.shopify.com/s/files/1/0271/6018/2883/products/CALENDARCOVER_540x.jpg?v=1669383250 1500w" alt="" class="image-4"/>
-                        <img src="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/POLYPHIA-EGODEATH-MOCKUP_540x.png?v=1658158941" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 991px) 155.332763671875px, (max-width: 1439px) 16vw, 155.332763671875px" srcset="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/POLYPHIA-EGODEATH-MOCKUP_540x.png?v=1658158941 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-1080.jpg 1080w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-1600.jpg 1600w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-2000.jpg 2000w" alt="" class="image-4"/>
-                        <img src="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/Tote_1_540x.png?v=1668616145" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 767px) 155.332763671875px, (max-width: 991px) 20vw, (max-width: 1439px) 155.332763671875px, 11vw" srcset="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/Tote_1_540x.png?v=1668616145 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377665d2c8a5c2f5317a1a8_29-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377665d2c8a5c2f5317a1a8_29-p-1080.jpg 1080w, https://cdn.shopify.com/s/files/1/0271/6018/2883/products/Tote_1_540x.png?v=1668616145 1500w" alt="" class="image-4"/>
-                        <img src="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/P-Socks_540x.png?v=1668616491" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 767px) 155.332763671875px, (max-width: 991px) 20vw, (max-width: 1439px) 16vw, 11vw" srcset="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/P-Socks_540x.png?v=1668616491 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377666d2e01c51b225ab83d_9-p-800.jpg 800w, https://cdn.shopify.com/s/files/1/0271/6018/2883/products/P-Socks_540x.png?v=1668616491 1000w" alt="" class="image-4"/>
-                        <img src="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/CD-DISCFACE_dca5b7a9-3100-4539-b2d4-6d7b6dceebf5_540x.png?v=1662044404" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, 155.332763671875px" srcset="https://cdn.shopify.com/s/files/1/0271/6018/2883/products/CD-DISCFACE_dca5b7a9-3100-4539-b2d4-6d7b6dceebf5_540x.png?v=1662044404 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377667d4f7c0097e2f85a4d_19-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377667d4f7c0097e2f85a4d_19-p-1080.jpg 1080w, https://cdn.shopify.com/s/files/1/0271/6018/2883/products/CD-DISCFACE_dca5b7a9-3100-4539-b2d4-6d7b6dceebf5_540x.png?v=1662044404 1500w" alt="" class="image-4"/>
+                        <img src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1).jpg" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 991px) 155.332763671875px, (max-width: 1439px) 16vw, 155.332763671875px" srcset="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-500.jpg 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-1080.jpg 1080w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-1600.jpg 1600w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6321d27d47b8a06bb53b133b_pexels-md-iftekhar-uddin-emon-403495%20(1)-p-2000.jpg 2000w" alt="" class="image-4"/>
+                        <img src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377664d1d771ade18b7169f_15.jpg" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 767px) 32vw, (max-width: 991px) 20vw, (max-width: 1439px) 155.332763671875px, 11vw" srcset="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377664d1d771ade18b7169f_15-p-500.jpg 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377664d1d771ade18b7169f_15-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377664d1d771ade18b7169f_15-p-1080.jpg 1080w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377664d1d771ade18b7169f_15.jpg 1500w" alt="" class="image-4"/>
+                        <img src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377665d2c8a5c2f5317a1a8_29.jpg" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 767px) 155.332763671875px, (max-width: 991px) 20vw, (max-width: 1439px) 155.332763671875px, 11vw" srcset="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377665d2c8a5c2f5317a1a8_29-p-500.jpg 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377665d2c8a5c2f5317a1a8_29-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377665d2c8a5c2f5317a1a8_29-p-1080.jpg 1080w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377665d2c8a5c2f5317a1a8_29.jpg 1500w" alt="" class="image-4"/>
+                        <img src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377666d2e01c51b225ab83d_9.jpg" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 767px) 155.332763671875px, (max-width: 991px) 20vw, (max-width: 1439px) 16vw, 11vw" srcset="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377666d2e01c51b225ab83d_9-p-500.jpg 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377666d2e01c51b225ab83d_9-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377666d2e01c51b225ab83d_9.jpg 1000w" alt="" class="image-4"/>
+                        <img src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377667d4f7c0097e2f85a4d_19.jpg" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, 155.332763671875px" srcset="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377667d4f7c0097e2f85a4d_19-p-500.jpg 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377667d4f7c0097e2f85a4d_19-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377667d4f7c0097e2f85a4d_19-p-1080.jpg 1080w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377667d4f7c0097e2f85a4d_19.jpg 1500w" alt="" class="image-4"/>
                         <img src="https://t2.genius.com/unsafe/224x224/https%3A%2F%2Fimages.genius.com%2F34a10721c3085ac27ce4b6e0b77ee490.999x999x1.png" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 991px) 155.332763671875px, (max-width: 1439px) 16vw, 155.332763671875px" srcset="https://t2.genius.com/unsafe/224x224/https%3A%2F%2Fimages.genius.com%2F34a10721c3085ac27ce4b6e0b77ee490.999x999x1.png 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637766102c8a5c594c179f8d_23-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/637766102c8a5c594c179f8d_23-p-1080.jpg 1080w, https://t2.genius.com/unsafe/224x224/https%3A%2F%2Fimages.genius.com%2F34a10721c3085ac27ce4b6e0b77ee490.999x999x1.png 1500w" alt="" class="image-4"/>
                         <img src="https://t2.genius.com/unsafe/237x237/https%3A%2F%2Fimages.genius.com%2F167055a1ad0539254945b355087a259b.1000x1000x1.png" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 767px) 32vw, (max-width: 1439px) 155.332763671875px, 11vw" srcset="https://t2.genius.com/unsafe/237x237/https%3A%2F%2Fimages.genius.com%2F167055a1ad0539254945b355087a259b.1000x1000x1.png 500w, https://t2.genius.com/unsafe/237x237/https%3A%2F%2Fimages.genius.com%2F167055a1ad0539254945b355087a259b.1000x1000x1.png 667w" alt="" class="image-4"/>
                         <img src="https://t2.genius.com/unsafe/227x227/https%3A%2F%2Fimages.genius.com%2F8c86adfbe4940cf0c9595483090c5b49.1000x1000x1.png" loading="lazy" style="filter:invert(100%)" sizes="(max-width: 479px) 100vw, (max-width: 767px) 32vw, (max-width: 991px) 20vw, (max-width: 1439px) 16vw, 11vw" srcset="https://t2.genius.com/unsafe/227x227/https%3A%2F%2Fimages.genius.com%2F8c86adfbe4940cf0c9595483090c5b49.1000x1000x1.png 500w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377662865ea181433b6e3af_22-p-800.jpg 800w, https://assets.website-files.com/6321ad7d8fcc564b83d2b527/6377662865ea181433b6e3af_22-p-1080.jpg 1080w, https://t2.genius.com/unsafe/227x227/https%3A%2F%2Fimages.genius.com%2F8c86adfbe4940cf0c9595483090c5b49.1000x1000x1.png 1500w" alt="" class="image-4"/>
@@ -2367,36 +1163,24 @@
                 </div>
                 <div style="filter:invert(100%)" class="bottom-banner">
                     <a href="#" class="link-7 _2">
-                        polyphia@unifiedmusicgroup.com polyphia@unifiedmusicgroup.com polyphia@unifiedmusicgroup.com polyphia@unifiedmusicgroup.com<br/>
+                        info@unifiedmusicgroup.com info@unifiedmusicgroup.com info@unifiedmusicgroup.com info@unifiedmusicgroup.com<br/>
                     </a>
                     <a href="#" class="link-7 _2">
-                        polyphia@unifiedmusicgroup.com polyphia@unifiedmusicgroup.com polyphia@unifiedmusicgroup.com polyphia@unifiedmusicgroup.com<br/>
+                        info@unifiedmusicgroup.com info@unifiedmusicgroup.com info@unifiedmusicgroup.com info@unifiedmusicgroup.com<br/>
                     </a>
                 </div>
                 <div class="container-large padding-top">
                     <div class="w-layout-grid grid">
                         <div id="w-node-_64ab9373-d06c-0599-fed7-abe41f9ca0db-ca2cdd83" class="column auto">
-                            <a data-w-id="8e2ad236-b5e9-528b-1ba1-2247db8dc397" href="https://www.behance.net/" target="_blank" class="social-link hover w-inline-block">
-                                <img src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/635ba657ec88dd859e5c96ec_37-behance.svg" loading="lazy" alt="" class="social-icon-fin"/>
-                            <a href="https://dribbble.com/" target="_blank" class="social-link margin-left margin-small hover w-inline-block">
-                                <img src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/635ba657ec88ddbe535c96ea_02-dribbble.svg" loading="lazy" alt="" class="social-icon-fin"/>
-                            </a>
-                            <a href="https://www.flickr.com/" target="_blank" class="social-link margin-left margin-small hover w-inline-block">
-                                <img src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/635ba657ec88dd9e545c96e9_04-flickr.svg" loading="lazy" alt="" class="social-icon-fin"/>
-                            </a>
-                            <a href="https://it.linkedin.com/" target="_blank" class="social-link margin-left margin-small hover w-inline-block">
-                                <img src="https://assets.website-files.com/6321ad7d8fcc564b83d2b527/635ba657ec88dd25475c96eb_11-linkedin.svg" loading="lazy" alt="" class="social-icon-fin"/>
-                            </a>
-                            <div class="main-text text-size-medium text-color-white text-style-allcaps"><a href="https://www.polyphia.com/pages/tour" class="link-8">Tour</a></div>
-                            <div class="main-text text-size-medium text-color-white text-style-allcaps"><a href="http://www.pietrastudio.com/?utm_source=google&utm_source=google_ads&utm_medium=cpc&utm_medium=search&utm_campaign=15725501411&utm_campaign=remarketing&utm_content=137343348931&utm_content=pietra_brand_terms&utm_term=pietra&utm_term=pietra&gclid=CjwKCAiA_vKeBhAdEiwAFb_nrboxLjD2kktN3gePeMD8LUiYrh-cIRzDMqYH94IHnUMldOTv3wvNaBoCobwQAvD_BwE" class="link-8">Merch</a></div>
-                            <!-- <div class="main-text text-size-medium text-color-white text-style-allcaps"><a href="#Work" class="link-8">Works</a></div> -->
+                            <div class="main-text text-size-medium text-color-white text-style-allcaps"><a href="#About" class="link-8">About me</a></div>
+                            <div class="main-text text-size-medium text-color-white text-style-allcaps"><a href="#Services" class="link-8">Services</a></div>
+                            <div class="main-text text-size-medium text-color-white text-style-allcaps"><a href="#Work" class="link-8">Works</a></div>
                         </div>
                         <div id="w-node-_83f97009-2cdc-6f5d-6916-00202e6466d7-ca2cdd83" class="column auto">
-                            <div class="main-text text-size-medium text-color-white text-style-allcaps"><a href="https://riserecords.lnk.to/RTYWD" class="link-8">Listen</a></div>
-                            <div class="main-text text-size-medium text-color-white text-style-allcaps"><a href="https://www.polyphia.com/pages/contact" class="link-8">Contact</a></div>
-                            <!-- <div class="main-text text-size-medium text-color-white text-style-allcaps"><a href="/changelog" class="link-8">changelog</a></div> -->
+                            <div class="main-text text-size-medium text-color-white text-style-allcaps"><a href="/licensing" class="link-8">Licensing</a></div>
+                            <div class="main-text text-size-medium text-color-white text-style-allcaps"><a href="/style-guide" class="link-8">Styleguide</a></div>
+                            <div class="main-text text-size-medium text-color-white text-style-allcaps"><a href="/changelog" class="link-8">changelog</a></div>
                         </div>
-                        
                         <a id="w-node-_0dd8d91d-288f-733a-9955-dd20d9404f6a-ca2cdd83" href="#" class="main-link w-inline-block">
                             <div class="main-text text-color-white text-size-xlarge text-style-allcaps text-weight-bold-copy footer">let&#x27;s chat</div>
                         </a>

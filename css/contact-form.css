@@ -13,13 +13,12 @@
     background-color: #fff;
     padding: 30px;
     padding-bottom: 10px;
-    border: 1px solid black;
     border-radius: 1.5rem;
     max-width: 100%;
-    /* margin-left: auto; */
     width: 50vh;
+}
+.fcf-body:hover {
     box-shadow: rgba(0, 0, 0, 0.6) 0px 4px 40px 5px;
-    /* border: none; */
 }
 
 .fcf-form-group {

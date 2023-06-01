@@ -5037,7 +5037,7 @@ button .buttonN {
 }
 .wrapper .inside {
   z-index: 9;
-  background: #92879B;
+  background: #ffffff;
   width: 140px;
   height: 140px;
   position: absolute;
@@ -5083,7 +5083,7 @@ button .buttonN {
   width: 100%;
 }
 .wrapper .inside .contents h1, .wrapper .inside .contents p, .wrapper .inside .contents table {
-  color: white;
+  color: black;
 }
 .wrapper .inside .contents p {
   font-size: 13px;
